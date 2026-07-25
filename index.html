@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d1117">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Song Pro Flex — vigia</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128663;</text></svg>">
+<style>
+  :root{
+    --bg:#0d1117; --surface:#161b22; --elevated:#21262d;
+    --border:#30363d; --border-muted:#21262d;
+    --text:#e6edf3; --muted:#8b949e; --subtle:#484f58;
+    --accent:#58a6ff; --success:#3fb950; --warning:#d29922; --danger:#f85149; --purple:#8957e5;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;
+    font-size:14px; line-height:1.5;
+    padding:0 0 env(safe-area-inset-bottom);
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:720px;margin:0 auto;padding:16px}
+
+  header{
+    position:sticky; top:0; z-index:10;
+    background:rgba(13,17,23,.92); backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--border);
+    padding:14px 16px calc(14px + env(safe-area-inset-top)) 16px;
+    padding-top:calc(14px + env(safe-area-inset-top));
+  }
+  header .inner{max-width:720px;margin:0 auto;display:flex;align-items:center;gap:12px}
+  h1{font-size:16px;font-weight:600;margin:0;line-height:1.25}
+  .sub{font-size:12px;color:var(--muted);margin-top:2px}
+  .count{
+    margin-left:auto;flex-shrink:0;
+    font-size:12px;font-weight:600;padding:4px 10px;border-radius:2em;
+    background:rgba(88,166,255,.15);color:var(--accent);white-space:nowrap;
+  }
+  .count.zero{background:rgba(48,54,61,.8);color:var(--muted)}
+
+  .bar{display:flex;gap:8px;margin:16px 0 4px;flex-wrap:wrap}
+  button{
+    font-family:inherit;font-size:13px;font-weight:600;
+    background:var(--elevated);color:#c9d1d9;border:1px solid var(--border);
+    padding:6px 14px;border-radius:6px;cursor:pointer;
+  }
+  button:active{background:#2d333b}
+  button:disabled{opacity:.45;cursor:default}
+
+  .card{
+    background:var(--surface);border:1px solid var(--border);border-radius:6px;
+    padding:14px;margin:12px 0;
+  }
+  .card.novo{border-left:3px solid var(--accent)}
+  .card.lido{opacity:.55}
+  .card-top{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+  .data{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:12px;color:var(--muted)}
+  .tag{font-size:11px;font-weight:600;padding:2px 8px;border-radius:2em;text-transform:uppercase;letter-spacing:.04em}
+  .t-promocao{background:rgba(210,153,34,.18);color:var(--warning)}
+  .t-oficial{background:rgba(63,185,80,.15);color:var(--success)}
+  .t-imprensa{background:rgba(88,166,255,.15);color:var(--accent)}
+  .t-referencia{background:rgba(137,87,229,.18);color:var(--purple)}
+  .t-rumor{background:rgba(48,54,61,.8);color:var(--muted)}
+  .novo-badge{background:rgba(248,81,73,.18);color:var(--danger)}
+  .card h2{font-size:15px;font-weight:600;margin:0 0 6px;line-height:1.35}
+  .card p{margin:0 0 12px;color:#c9d1d9}
+  .card-foot{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+  a{color:var(--accent);text-decoration:none;font-size:13px;font-weight:600}
+  a:active{text-decoration:underline}
+  .fonte{font-size:12px;color:var(--subtle);margin-left:auto}
+
+  .loja{
+    background:var(--surface);border:1px solid var(--border);border-radius:6px;
+    padding:14px;margin:24px 0 8px;
+  }
+  .loja h3{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin:0 0 10px}
+  .loja-row{display:flex;align-items:baseline;gap:8px;padding:7px 0;border-bottom:1px solid var(--border-muted)}
+  .loja-row:last-child{border-bottom:0}
+  .loja-row strong{font-weight:600;min-width:64px}
+  .loja-row span{font-size:12px;color:var(--muted)}
+  .zap{margin-left:auto;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px;white-space:nowrap}
+
+  footer{color:var(--subtle);font-size:12px;text-align:center;padding:24px 16px 32px;line-height:1.6}
+  .vazio{color:var(--muted);text-align:center;padding:40px 16px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="inner">
+    <div>
+      <h1>BYD Song Pro Flex 2027</h1>
+      <div class="sub" id="checado">carregando…</div>
+    </div>
+    <div class="count" id="contador">—</div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="bar">
+    <button id="btn-lidas">Marcar tudo como lido</button>
+    <button id="btn-tudo">Mostrar já lidas</button>
+  </div>
+
+  <div id="lista"></div>
+
+  <div class="loja">
+    <h3>BYD Vega — sua concessionária</h3>
+    <div class="loja-row">
+      <strong>Macapá</strong><span>Rod. Josmar Chaves Pinto, 2141</span>
+      <a class="zap" href="https://wa.me/5591993027475">(91) 99302-7475</a>
+    </div>
+    <div class="loja-row">
+      <strong>Belém</strong><span>Av. Pedro Álvares Cabral, 835</span>
+      <a class="zap" href="https://wa.me/5591991603645">(91) 99160-3645</a>
+    </div>
+  </div>
+
+  <footer>
+    Verificado automaticamente todo dia às 10h e às 18h.<br>
+    O que você marca como lido fica salvo neste aparelho.
+  </footer>
+</div>
+
+<script>
+const CHAVE = 'byd_lidos_v1';
+let lidos = new Set(JSON.parse(localStorage.getItem(CHAVE) || '[]'));
+let itens = [];
+let mostrarLidas = false;
+
+const salvar = () => localStorage.setItem(CHAVE, JSON.stringify([...lidos]));
+
+const dataBr = iso => {
+  const [a, m, d] = iso.split('-');
+  return d + '/' + m + '/' + a;
+};
+
+function render() {
+  const lista = document.getElementById('lista');
+  const naoLidas = itens.filter(i => !lidos.has(i.id));
+  const visiveis = mostrarLidas ? itens : naoLidas;
+
+  const c = document.getElementById('contador');
+  c.textContent = naoLidas.length === 0
+    ? 'tudo em dia'
+    : naoLidas.length + (naoLidas.length === 1 ? ' nova' : ' novas');
+  c.classList.toggle('zero', naoLidas.length === 0);
+
+  document.getElementById('btn-lidas').disabled = naoLidas.length === 0;
+  document.getElementById('btn-tudo').textContent = mostrarLidas ? 'Só as não lidas' : 'Mostrar já lidas';
+
+  if (visiveis.length === 0) {
+    lista.innerHTML = '<div class="vazio">Nada novo desde a sua última leitura.<br>Quando aparecer, cai aqui.</div>';
+    return;
+  }
+
+  lista.innerHTML = visiveis.map(i => {
+    const novo = !lidos.has(i.id);
+    return '<article class="card ' + (novo ? 'novo' : 'lido') + '">' +
+      '<div class="card-top">' +
+        '<span class="data">' + dataBr(i.data) + '</span>' +
+        '<span class="tag t-' + i.tipo + '">' + i.tipo + '</span>' +
+        (novo ? '<span class="tag novo-badge">novo</span>' : '') +
+      '</div>' +
+      '<h2>' + i.titulo + '</h2>' +
+      '<p>' + i.resumo + '</p>' +
+      '<div class="card-foot">' +
+        '<a href="' + i.link + '" target="_blank" rel="noopener">Abrir matéria</a>' +
+        (novo ? '<button data-id="' + i.id + '">Marcar como lido</button>' : '') +
+        '<span class="fonte">' + i.fonte + '</span>' +
+      '</div>' +
+    '</article>';
+  }).join('');
+
+  lista.querySelectorAll('button[data-id]').forEach(b => {
+    b.onclick = () => { lidos.add(b.dataset.id); salvar(); render(); };
+  });
+}
+
+document.getElementById('btn-lidas').onclick = () => {
+  itens.forEach(i => lidos.add(i.id));
+  salvar(); render();
+};
+document.getElementById('btn-tudo').onclick = () => { mostrarLidas = !mostrarLidas; render(); };
+
+fetch('novidades.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    itens = d.itens.sort((a, b) => b.data.localeCompare(a.data));
+    const q = new Date(d.atualizado_em);
+    document.getElementById('checado').textContent =
+      'última verificação: ' + q.toLocaleDateString('pt-BR') + ' às ' +
+      q.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+    render();
+  })
+  .catch(() => {
+    document.getElementById('checado').textContent = 'falha ao carregar';
+    document.getElementById('lista').innerHTML =
+      '<div class="vazio">Não consegui carregar as novidades. Puxe a tela para recarregar.</div>';
+  });
+</script>
+</body>
+</html>

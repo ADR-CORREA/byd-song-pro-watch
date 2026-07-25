@@ -1,0 +1,56 @@
+{
+  "atualizado_em": "2026-07-25T04:40:00Z",
+  "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
+  "itens": [
+    {
+      "id": "2026-07-24-promo-10mil",
+      "data": "2026-07-24",
+      "tipo": "promocao",
+      "peso": "alta",
+      "titulo": "BYD derruba R$ 10 mil no Song Pro para limpar estoque antes do flex",
+      "resumo": "Song Pro GS 2026 de R$ 199.990 por R$ 189.990 e Dolphin GS de R$ 149.990 por R$ 139.990, nos dias 24 e 25 de julho, com as 228 concessionárias abertas das 8h às 20h. Song Plus 2027 com taxa zero em até 36x ou R$ 10 mil de bônus. Há bônus de troca e carregador portátil nos plug-in. Tudo sujeito a disponibilidade regional e de estoque. O motivo declarado é esvaziar o estoque antes da chegada do Song Pro flex.",
+      "fonte": "Auto+ TV",
+      "link": "https://www.automaistv.com.br/destaque/byd-reduz-em-r-10-mil-preco-do-song-pro-e-dolphin-e-taxa-zero/"
+    },
+    {
+      "id": "2026-07-lancamento-inicio-agosto",
+      "data": "2026-07-20",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "Lançamento do Song Pro flex escorrega de junho para o início de agosto",
+      "resumo": "Reportagens de julho apontam o lançamento do SUV renovado para o início de agosto de 2026. A data anterior, divulgada em abril, era junho — ou seja, o cronograma já atrasou uma vez. O Song Pro 2027 será o segundo flex da BYD no Brasil, depois do Atto 2 DM-i.",
+      "fonte": "AUTOO / GC Notícias",
+      "link": "https://www.autoo.com.br/byd-confirma-data-de-lancamento-do-song-pro-flex-saiba-quando-chega/"
+    },
+    {
+      "id": "2026-06-09-atto2-flex-referencia",
+      "data": "2026-06-09",
+      "tipo": "referencia",
+      "peso": "alta",
+      "titulo": "Ensaio geral: Atto 2 DM-i Flex lançou dia 9, reserva abriu dia 10, entrega só no 3º trimestre",
+      "resumo": "O primeiro flex da BYD foi lançado em 09/06/2026 por R$ 149.990 (GL) e R$ 169.990 (GS). As reservas abriram no dia seguinte e as primeiras entregas ficaram para o terceiro trimestre. É o padrão que provavelmente se repete no Song Pro flex: o que decide a fila é entrar na reserva, não a data do lançamento.",
+      "fonte": "Vrum",
+      "link": "https://www.vrum.com.br/mercado/2026/06/7438379-byd-atto-2-dm-i-flex-e-lancado-a-partir-de-rs-149-990-e-mira-t-cross.html"
+    },
+    {
+      "id": "2026-05-15-confirmacao-camacari",
+      "data": "2026-05-15",
+      "tipo": "oficial",
+      "peso": "media",
+      "titulo": "BYD confirma Song Pro híbrido flex feito em Camaçari como linha 2027",
+      "resumo": "Conjunto de 1.5 flex aspirado somado a motor elétrico, cerca de 235 cv combinados e bateria de 18,3 kWh, rodando com etanol, gasolina ou eletricidade. Visual novo na linguagem Dragon Face, com faróis afilados ligados por barra cromada e para-choque redesenhado. Será o primeiro SUV híbrido plug-in flex do mundo.",
+      "fonte": "Terra",
+      "link": "https://www.terra.com.br/mobilidade/byd-confirma-novo-song-pro-hibrido-flex-feito-no-brasil-e-suv-estreia-ja-em-junho,40806c317033be83a10170b3ae9efb50ycauc3pp.html"
+    },
+    {
+      "id": "2026-02-producao-nacional-completa",
+      "data": "2026-02-15",
+      "tipo": "imprensa",
+      "peso": "baixa",
+      "titulo": "Produção nacional completa: solda e pintura no Brasil, não só CKD",
+      "resumo": "O Song Pro flex passa a ser produzido integralmente em Camaçari (BA), incluindo solda e pintura — o que garante isenção de IPI na maioria das versões e corta o custo logístico da importação. O complexo tem capacidade inicial para cerca de 150 mil veículos por ano.",
+      "fonte": "Veículo Elétrico Blog",
+      "link": "https://veiculoeletrico.blog.br/2026/02/byd-song-pro-hibrido-flex-tera-producao-nacional-completa-no-brasil.html"
+    }
+  ]
+}
