@@ -1,7 +1,27 @@
 {
-  "atualizado_em": "2026-07-25T04:40:00Z",
+  "atualizado_em": "2026-07-27T15:38:42Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-07-24-byd-derruba-juros-a-zero-e-parcela-song-pro-e",
+      "data": "2026-07-24",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD derruba juros a zero e parcela Song Pro em R$ 2.337 para pressionar Haval H6",
+      "resumo": "BYD Song Pro GS tem taxa nominal zero, entrada de R$ 119.994 e 36 parcelas de R$ 2.337,83 para disputar clientes do Haval H6.",
+      "fonte": "Garagem360",
+      "link": "https://garagem360.com.br/byd-derruba-juros-a-zero-e-parcela-song-pro-em-r-2-337-para-pressionar-haval-h6/"
+    },
+    {
+      "id": "2026-07-21-byd-song-pro-2027-hibrido-flex-e-com-novo-vis",
+      "data": "2026-07-21",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD Song Pro 2027 híbrido flex e com novo visual já tem data para chegar",
+      "resumo": "Apresentada na China em meados de 2024, reestilização de meia-vida do Song Pro já está pronta para ser lançada no Brasil; veja o que sabemos ...",
+      "fonte": "Autoesporte",
+      "link": "https://autoesporte.globo.com/carros/segredos-e-flagras/noticia/2026/07/byd-song-pro-2027-hibrido-flex-novo-visual-data-chegar.ghtml"
+    },
     {
       "id": "2026-07-24-promo-10mil",
       "data": "2026-07-24",
