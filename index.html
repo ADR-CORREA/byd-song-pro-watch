@@ -140,6 +140,13 @@ const dataBr = iso => {
   return d + '/' + m + '/' + a;
 };
 
+// O conteúdo vem de feeds de terceiros: nada entra na página sem escapar.
+const esc = s => String(s == null ? '' : s)
+  .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+  .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+
+const linkSeguro = u => /^https?:\/\//i.test(String(u)) ? esc(u) : '#';
+
 function render() {
   const lista = document.getElementById('lista');
   const naoLidas = itens.filter(i => !lidos.has(i.id));
@@ -161,18 +168,19 @@ function render() {
 
   lista.innerHTML = visiveis.map(i => {
     const novo = !lidos.has(i.id);
+    const tipo = /^[a-z]+$/.test(i.tipo) ? i.tipo : 'imprensa';
     return '<article class="card ' + (novo ? 'novo' : 'lido') + '">' +
       '<div class="card-top">' +
-        '<span class="data">' + dataBr(i.data) + '</span>' +
-        '<span class="tag t-' + i.tipo + '">' + i.tipo + '</span>' +
+        '<span class="data">' + esc(dataBr(i.data)) + '</span>' +
+        '<span class="tag t-' + tipo + '">' + tipo + '</span>' +
         (novo ? '<span class="tag novo-badge">novo</span>' : '') +
       '</div>' +
-      '<h2>' + i.titulo + '</h2>' +
-      '<p>' + i.resumo + '</p>' +
+      '<h2>' + esc(i.titulo) + '</h2>' +
+      '<p>' + esc(i.resumo) + '</p>' +
       '<div class="card-foot">' +
-        '<a href="' + i.link + '" target="_blank" rel="noopener">Abrir matéria</a>' +
-        (novo ? '<button data-id="' + i.id + '">Marcar como lido</button>' : '') +
-        '<span class="fonte">' + i.fonte + '</span>' +
+        '<a href="' + linkSeguro(i.link) + '" target="_blank" rel="noopener">Abrir matéria</a>' +
+        (novo ? '<button data-id="' + esc(i.id) + '">Marcar como lido</button>' : '') +
+        '<span class="fonte">' + esc(i.fonte) + '</span>' +
       '</div>' +
     '</article>';
   }).join('');

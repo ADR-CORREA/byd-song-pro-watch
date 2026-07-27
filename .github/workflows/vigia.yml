@@ -1,0 +1,49 @@
+name: vigia
+
+on:
+  schedule:
+    # 13:00 e 21:00 UTC = 10h e 18h em Macapá (UTC-3)
+    - cron: '0 13 * * *'
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vigia
+  cancel-in-progress: false
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Procurar novidades
+        run: node scripts/vigia.mjs | tee saida.txt
+
+      - name: Conferir se o caderno continua válido
+        run: node -e "const d=require('./novidades.json'); if(!Array.isArray(d.itens)||!d.itens.length) throw new Error('caderno vazio ou quebrado'); console.log(d.itens.length+' itens, JSON ok')"
+
+      - name: Publicar
+        run: |
+          N=$(grep -oP 'NOVIDADES=\K\d+' saida.txt)
+          rm saida.txt
+          git config user.name  "vigia"
+          git config user.email "vigia@users.noreply.github.com"
+          if git diff --quiet novidades.json; then
+            echo "nada a commitar"
+            exit 0
+          fi
+          HOJE=$(TZ=America/Belem date +%Y-%m-%d)
+          if [ "$N" = "0" ]; then
+            git commit -qam "vigia: sem novidades em $HOJE"
+          else
+            git commit -qam "vigia: $N novidade(s) em $HOJE"
+          fi
+          git push
