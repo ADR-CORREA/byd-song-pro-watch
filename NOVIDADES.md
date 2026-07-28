@@ -1,10 +1,70 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-07-27 21:54:52 UTC
+Última verificação: 2026-07-28 15:20:32 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 25/07/2026 — BYD prepara Song Pro flex para agosto
+
+*imprensa · Agora RN*
+
+Sem resumo no feed — abra a matéria para ler.
+
+[Abrir matéria](https://news.google.com/rss/articles/CBMiekFVX3lxTE5vZ1pNaVhYVzJKOFdjSTBBeEpOR05PMGZyc3UzZEVoR3oyc2ZlRGRHbXBYZ2FJZWtycGwxQUN5aWZEVFpLUEd3TkJaNVBIX1BPV29vQVRpVzFoV1BrY2tIYTFIS19QV2w4OEQ4MHJ1VnRwNjViWWdsMnNR?oc=5)
+
+---
+
+## 23/07/2026 — BYD promete nacionalizar peças do Song Pro, Dolphin Mini e King até o fim de 2026
+
+*imprensa · Quatro Rodas*
+
+Sem resumo no feed — abra a matéria para ler.
+
+[Abrir matéria](https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0dXQjlFZENCVnVrWlptRWZDUldwRWlWOWpBVWx6VWtHa0V2TkNUR3RkVzdzUTd5a2dmY0JGem5jdHU1aXBDTk5GNXFIeTlpNHl6Y3RmSVZVbmhjdGt1VFBGTHlnZlc0TEdtRVdLWkxWcFJyaU9BQjdRYjdxX2JVS0dYRDdDU0xXb3c?oc=5)
+
+---
+
+## 23/07/2026 — BYD Song Pro 2027 chegará ao Brasil com novo visual e tecnologia híbrida flex
+
+*imprensa · Veículo Elétrico Blog*
+
+Sem resumo no feed — abra a matéria para ler.
+
+[Abrir matéria](https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2FjNEVJdDZoeUF2cENCYU93ZzNpZnJzT1BER2N5Qk1IZW1wTTdEVWY2bU9LZ0d2UDFGdmRyczZsaENaek1iNXdOZ056Mm84d0EwMGVFdVIweFp3QTlkMk1reXhLU3dpNkZld0VUTUlCN0wwNnJvQTBab21qZDVRWGN4OTRiY0NJb3BwY3JKTFU1TmtTbFE5Y3J5M1dCbmRYUFNFOE4tSWI5XzJXdGxGZGFMMjJOOC1RVzE2d1U3SQ?oc=5)
+
+---
+
+## 22/07/2026 — BYD reduz em R$ 10 mil preço do Song Pro e Dolphin e taxa zero - Auto+ TV
+
+*promocao · Auto+ TV*
+
+Sem resumo no feed — abra a matéria para ler.
+
+[Abrir matéria](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkVaeGFjWFRrb1FOak9Qa1hWaDNlQmNYYlZEa01HcjJrYV9fOTVLNGkzZmFINm03X0FHRjJDUmFrcE9ORXNmTVpHcmFkdWtMYnh1a29wTGoxUFN2YzNQTWVmQnczU1BDUmN5VnFKZHE3YnlhS3JpX1RKclMwUk5EX0pBQmJnQUtlWFVDRGtobUlyM2hPbkhyd3ROMER1c3F1OG9F?oc=5)
+
+---
+
+## 19/07/2026 — Novo BYD Song Pro híbrido flex chega em breve e é feito na Bahia; veja o que sabemos
+
+*imprensa · MSN*
+
+Sem resumo no feed — abra a matéria para ler.
+
+[Abrir matéria](https://news.google.com/rss/articles/CBMi-AJBVV95cUxQLWozOTlwUUgzUHdTQ2xpRF9YRjBTWFdLcmEzQmltampoS1gtVlhtTm1IdTdYLWw2N2VUbjdVS2FqcngtM19NSnhFN0ZDWUdwampzSVhxWkpTTGFZSjJIam9BbFhSQjNxRDQ4akhReWt3NDFoTnlZOEVSVUpPU2JJX2VRbDB6Y3RrM2tRandkSm9GX2R6WkJ1NmxnbWIyUl9CUEUydlo0S3FyRHpORjNTR1VHTzdXZW9kVll2aEpFTjZKMHVqWGd2OUk1S1VQcFdENlVwOFB3aDBiZzdBVWNJQlhXOFd0dmJqRzV6MlRvOXUtVldyYmxyaldiWlQ1QU1TdmJHZklaMlhkN1JtUDhTdlpjcE9qLXJqSzNrbUNNQnB2SzZ4Yk1HdnNOX0RHUm52WkJ2OWZlU0ZoMmY4NTkzZ05FNjR5ekMwTndQSU1BeHZpbkVTQWJoWXMzTXVRNFAyY054NXB3RVlYbnlNZlhjUWE1V3ROVDhJ?oc=5)
+
+---
+
+## 18/07/2026 — NOVO BYD SONG PRO GS 2027 - VEIO FLEX? ATENÇÃO A NOVA GARANTIA! Eastenders Bafta Award 2026 (seu7BDoKEw)
+
+*imprensa · Mshale*
+
+Sem resumo no feed — abra a matéria para ler.
+
+[Abrir matéria](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jdE1OTFY2UXJfUzRUNTJ0X1FKc3pJTDg2Q3Y5aFJGT0xadERVazBObkoxZXFkcU92TjlSeHdWT2pSd0owNnlUa2o5SThiU0FfVVpiZ1Ixam11SlE?oc=5)
 
 ---
 
