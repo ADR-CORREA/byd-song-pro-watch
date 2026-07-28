@@ -27,6 +27,9 @@ jobs:
       - name: Procurar novidades
         run: node scripts/vigia.mjs | tee saida.txt
 
+      - name: Publicar na página e na versão em texto
+        run: node scripts/publicar.mjs
+
       - name: Conferir se o caderno continua válido
         run: node -e "const d=require('./novidades.json'); if(!Array.isArray(d.itens)||!d.itens.length) throw new Error('caderno vazio ou quebrado'); console.log(d.itens.length+' itens, JSON ok')"
 
@@ -36,14 +39,15 @@ jobs:
           rm saida.txt
           git config user.name  "vigia"
           git config user.email "vigia@users.noreply.github.com"
-          if git diff --quiet novidades.json; then
+          git add -A
+          if git diff --cached --quiet; then
             echo "nada a commitar"
             exit 0
           fi
           HOJE=$(TZ=America/Belem date +%Y-%m-%d)
           if [ "$N" = "0" ]; then
-            git commit -qam "vigia: sem novidades em $HOJE"
+            git commit -qm "vigia: sem novidades em $HOJE"
           else
-            git commit -qam "vigia: $N novidade(s) em $HOJE"
+            git commit -qm "vigia: $N novidade(s) em $HOJE"
           fi
           git push

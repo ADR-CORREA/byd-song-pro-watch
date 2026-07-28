@@ -127,6 +127,8 @@
   </footer>
 </div>
 
+<script id="dados" type="application/json">{"atualizado_em":"2026-07-27T21:54:52Z","assunto":"BYD Song Pro flex (linha 2027) — lançamento no Brasil","itens":[{"id":"2026-07-27-novo-byd-song-pro-detalhes-do-novo-carro-que-","data":"2026-07-27","tipo":"imprensa","peso":"media","titulo":"Novo BYD Song Pro: detalhes do novo carro que promete inovar","resumo":"A BYD confirmou a chegada da linha 2027 do Song Pro ao mercado brasileiro no início de agosto. A principal novidade do SUV é a adoção de um sistema híbrido flex, que permite o uso de etanol ou ...","fonte":"Diariodepernambuco","link":"https://www.diariodepernambuco.com.br/dptrends/novo-byd-song-pro-detalhes-do-novo-carro-que-promete-inovar/"},{"id":"2026-07-24-byd-derruba-juros-a-zero-e-parcela-song-pro-e","data":"2026-07-24","tipo":"imprensa","peso":"alta","titulo":"BYD derruba juros a zero e parcela Song Pro em R$ 2.337 para pressionar Haval H6","resumo":"BYD Song Pro GS tem taxa nominal zero, entrada de R$ 119.994 e 36 parcelas de R$ 2.337,83 para disputar clientes do Haval H6.","fonte":"Garagem360","link":"https://garagem360.com.br/byd-derruba-juros-a-zero-e-parcela-song-pro-em-r-2-337-para-pressionar-haval-h6/"},{"id":"2026-07-21-byd-song-pro-2027-hibrido-flex-e-com-novo-vis","data":"2026-07-21","tipo":"imprensa","peso":"alta","titulo":"BYD Song Pro 2027 híbrido flex e com novo visual já tem data para chegar","resumo":"Apresentada na China em meados de 2024, reestilização de meia-vida do Song Pro já está pronta para ser lançada no Brasil; veja o que sabemos ...","fonte":"Autoesporte","link":"https://autoesporte.globo.com/carros/segredos-e-flagras/noticia/2026/07/byd-song-pro-2027-hibrido-flex-novo-visual-data-chegar.ghtml"},{"id":"2026-07-24-promo-10mil","data":"2026-07-24","tipo":"promocao","peso":"alta","titulo":"BYD derruba R$ 10 mil no Song Pro para limpar estoque antes do flex","resumo":"Song Pro GS 2026 de R$ 199.990 por R$ 189.990 e Dolphin GS de R$ 149.990 por R$ 139.990, nos dias 24 e 25 de julho, com as 228 concessionárias abertas das 8h às 20h. Song Plus 2027 com taxa zero em até 36x ou R$ 10 mil de bônus. Há bônus de troca e carregador portátil nos plug-in. Tudo sujeito a disponibilidade regional e de estoque. O motivo declarado é esvaziar o estoque antes da chegada do Song Pro flex.","fonte":"Auto+ TV","link":"https://www.automaistv.com.br/destaque/byd-reduz-em-r-10-mil-preco-do-song-pro-e-dolphin-e-taxa-zero/"},{"id":"2026-07-lancamento-inicio-agosto","data":"2026-07-20","tipo":"imprensa","peso":"alta","titulo":"Lançamento do Song Pro flex escorrega de junho para o início de agosto","resumo":"Reportagens de julho apontam o lançamento do SUV renovado para o início de agosto de 2026. A data anterior, divulgada em abril, era junho — ou seja, o cronograma já atrasou uma vez. O Song Pro 2027 será o segundo flex da BYD no Brasil, depois do Atto 2 DM-i.","fonte":"AUTOO / GC Notícias","link":"https://www.autoo.com.br/byd-confirma-data-de-lancamento-do-song-pro-flex-saiba-quando-chega/"},{"id":"2026-06-09-atto2-flex-referencia","data":"2026-06-09","tipo":"referencia","peso":"alta","titulo":"Ensaio geral: Atto 2 DM-i Flex lançou dia 9, reserva abriu dia 10, entrega só no 3º trimestre","resumo":"O primeiro flex da BYD foi lançado em 09/06/2026 por R$ 149.990 (GL) e R$ 169.990 (GS). As reservas abriram no dia seguinte e as primeiras entregas ficaram para o terceiro trimestre. É o padrão que provavelmente se repete no Song Pro flex: o que decide a fila é entrar na reserva, não a data do lançamento.","fonte":"Vrum","link":"https://www.vrum.com.br/mercado/2026/06/7438379-byd-atto-2-dm-i-flex-e-lancado-a-partir-de-rs-149-990-e-mira-t-cross.html"},{"id":"2026-05-15-confirmacao-camacari","data":"2026-05-15","tipo":"oficial","peso":"media","titulo":"BYD confirma Song Pro híbrido flex feito em Camaçari como linha 2027","resumo":"Conjunto de 1.5 flex aspirado somado a motor elétrico, cerca de 235 cv combinados e bateria de 18,3 kWh, rodando com etanol, gasolina ou eletricidade. Visual novo na linguagem Dragon Face, com faróis afilados ligados por barra cromada e para-choque redesenhado. Será o primeiro SUV híbrido plug-in flex do mundo.","fonte":"Terra","link":"https://www.terra.com.br/mobilidade/byd-confirma-novo-song-pro-hibrido-flex-feito-no-brasil-e-suv-estreia-ja-em-junho,40806c317033be83a10170b3ae9efb50ycauc3pp.html"},{"id":"2026-02-producao-nacional-completa","data":"2026-02-15","tipo":"imprensa","peso":"baixa","titulo":"Produção nacional completa: solda e pintura no Brasil, não só CKD","resumo":"O Song Pro flex passa a ser produzido integralmente em Camaçari (BA), incluindo solda e pintura — o que garante isenção de IPI na maioria das versões e corta o custo logístico da importação. O complexo tem capacidade inicial para cerca de 150 mil veículos por ano.","fonte":"Veículo Elétrico Blog","link":"https://veiculoeletrico.blog.br/2026/02/byd-song-pro-hibrido-flex-tera-producao-nacional-completa-no-brasil.html"}]}</script>
+
 <script>
 const CHAVE = 'byd_lidos_v1';
 let lidos = new Set(JSON.parse(localStorage.getItem(CHAVE) || '[]'));
@@ -196,21 +198,22 @@ document.getElementById('btn-lidas').onclick = () => {
 };
 document.getElementById('btn-tudo').onclick = () => { mostrarLidas = !mostrarLidas; render(); };
 
-fetch('novidades.json?t=' + Date.now())
-  .then(r => r.json())
-  .then(d => {
-    itens = d.itens.sort((a, b) => b.data.localeCompare(a.data));
-    const q = new Date(d.atualizado_em);
-    document.getElementById('checado').textContent =
-      'última verificação: ' + q.toLocaleDateString('pt-BR') + ' às ' +
-      q.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
-    render();
-  })
-  .catch(() => {
-    document.getElementById('checado').textContent = 'falha ao carregar';
-    document.getElementById('lista').innerHTML =
-      '<div class="vazio">Não consegui carregar as novidades. Puxe a tela para recarregar.</div>';
-  });
+// Os dados vêm embutidos na própria página (bloco #dados, escrito pelo robô a cada
+// rodada). Nada é buscado depois de carregar: sem rede, sem espera, sem tela vazia.
+try {
+  const d = JSON.parse(document.getElementById('dados').textContent);
+  itens = d.itens.sort((a, b) => b.data.localeCompare(a.data));
+  const q = new Date(d.atualizado_em);
+  document.getElementById('checado').textContent =
+    'última verificação: ' + q.toLocaleDateString('pt-BR') + ' às ' +
+    q.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+  render();
+} catch (e) {
+  document.getElementById('checado').textContent = 'erro ao ler os dados';
+  document.getElementById('lista').innerHTML =
+    '<div class="vazio">Deu problema ao abrir a lista.<br>' +
+    'Tente a versão em texto: <a href="NOVIDADES.md">NOVIDADES.md</a></div>';
+}
 </script>
 </body>
 </html>
