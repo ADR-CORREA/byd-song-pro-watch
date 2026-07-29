@@ -2,9 +2,11 @@ name: vigia
 
 on:
   schedule:
-    # 13:00 e 21:00 UTC = 10h e 18h em Macapá (UTC-3)
-    - cron: '0 13 * * *'
-    - cron: '0 21 * * *'
+    # 12:40 e 20:40 UTC ≈ 9h40 e 17h40 em Macapá (UTC-3).
+    # Adiantado de propósito: o GitHub enfileira o cron no topo da hora e atrasa
+    # (chegou a 2h20 de atraso no '0 13'). Minuto quebrado + folga faz cair perto das 10h e 18h.
+    - cron: '40 12 * * *'
+    - cron: '40 20 * * *'
   workflow_dispatch:
 
 permissions:
