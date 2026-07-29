@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-07-29 14:56:31 UTC
+Última verificação: 2026-07-29 21:30:20 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 29/07/2026 — Novo BYD Song Pro 2027 flex já está nas lojas; veja preço de lançamento
+
+*imprensa · Autoesporte*
+
+SUV híbrido reestilizado e com motorização híbrida flex está sendo oferecido pelo valor promocional de R$ 199.990 e deve ter a potência reduzida para uma faixa entre 200 e 230 cv ...
+
+[Abrir matéria](https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/07/novo-byd-song-pro-2027-flex-lojas-preco-lancamento.ghtml)
 
 ---
 
