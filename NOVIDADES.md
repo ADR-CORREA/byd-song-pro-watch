@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-07-28 21:52:58 UTC
+Última verificação: 2026-07-29 14:56:31 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 28/07/2026 — Song Pro 2027 ganha motor 1.5 preparado para etanol, visual Dragon Face redesenhado e produção em Camaçari, com fabricação em escala maior prevista até o fim de 2026
+
+*imprensa · Clickpetroleoegas*
+
+A BYD prepara para o início de agosto de 2026 o lançamento no Brasil do Song Pro 2027, versão reestilizada do SUV médio que passa a contar com sistema híbrido plug-in flex, capaz de operar com etanol ...
+
+[Abrir matéria](https://clickpetroleoegas.com.br/song-pro-2027-ganha-motor-1-5-preparado-para-etanol-visual-dragon-face-redesenhado-e-producao-em-camacari-com-fabricacao-em-escala-maior-prevista-btl96/)
 
 ---
 
