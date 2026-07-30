@@ -1,10 +1,40 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-07-29 21:30:20 UTC
+Última verificação: 2026-07-30 14:53:03 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 30/07/2026 — Lojas já vendem BYD Song Pro 2027 flex com preço de lançamento; veja detalhes
+
+*imprensa · Mixvale*
+
+Unidades do novo BYD Song Pro 2027 flex já podem ser encontradas em concessionárias antes do lançamento oficial, previsto para o começo de agosto. O SUV médio, que passará por uma reestilização de mei ...
+
+[Abrir matéria](https://www.mixvale.com.br/2026/07/30/lojas-ja-vendem-byd-song-pro-2027-flex-com-preco-de-lancamento-veja-detalhes/)
+
+---
+
+## 29/07/2026 — BYD Song Pro 2027 flex está chegando às concessionárias que já recebem pedidos
+
+*imprensa · Noticias*
+
+SUV híbrido plug-in nacionalizado ganha visual inspirado no Song Plus, sistema Google e será o primeiro híbrido flex produzido pela BYD no Brasil ...
+
+[Abrir matéria](https://noticias.r7.com/prisma/autos-carros/byd-song-pro-2027-flex-esta-chegando-as-concessionarias-que-ja-recebem-pedidos-29072026/)
+
+---
+
+## 29/07/2026 — Flagra: BYD já estoca novo Song Pro flex nas concessionárias; confira o que muda
+
+*imprensa · Msn*
+
+SUV médio chegará em agosto e terá papel de estrear motor híbrido bicombustível da chinesa no país ...
+
+[Abrir matéria](https://www.msn.com/pt-br/carros/noticias/flagra-byd-j%C3%A1-estoca-novo-song-pro-flex-nas-concession%C3%A1rias-confira-o-que-muda/ar-AA28Zauf)
 
 ---
 

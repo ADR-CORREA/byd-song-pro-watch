@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-07-29T21:30:20Z",
+  "atualizado_em": "2026-07-30T14:53:03Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-07-30-lojas-ja-vendem-byd-song-pro-2027-flex-com-pr",
+      "data": "2026-07-30",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "Lojas já vendem BYD Song Pro 2027 flex com preço de lançamento; veja detalhes",
+      "resumo": "Unidades do novo BYD Song Pro 2027 flex já podem ser encontradas em concessionárias antes do lançamento oficial, previsto para o começo de agosto. O SUV médio, que passará por uma reestilização de mei ...",
+      "fonte": "Mixvale",
+      "link": "https://www.mixvale.com.br/2026/07/30/lojas-ja-vendem-byd-song-pro-2027-flex-com-preco-de-lancamento-veja-detalhes/"
+    },
+    {
+      "id": "2026-07-29-byd-song-pro-2027-flex-esta-chegando-as-conce",
+      "data": "2026-07-29",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD Song Pro 2027 flex está chegando às concessionárias que já recebem pedidos",
+      "resumo": "SUV híbrido plug-in nacionalizado ganha visual inspirado no Song Plus, sistema Google e será o primeiro híbrido flex produzido pela BYD no Brasil ...",
+      "fonte": "Noticias",
+      "link": "https://noticias.r7.com/prisma/autos-carros/byd-song-pro-2027-flex-esta-chegando-as-concessionarias-que-ja-recebem-pedidos-29072026/"
+    },
+    {
+      "id": "2026-07-29-flagra-byd-ja-estoca-novo-song-pro-flex-nas-c",
+      "data": "2026-07-29",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "Flagra: BYD já estoca novo Song Pro flex nas concessionárias; confira o que muda",
+      "resumo": "SUV médio chegará em agosto e terá papel de estrear motor híbrido bicombustível da chinesa no país ...",
+      "fonte": "Msn",
+      "link": "https://www.msn.com/pt-br/carros/noticias/flagra-byd-j%C3%A1-estoca-novo-song-pro-flex-nas-concession%C3%A1rias-confira-o-que-muda/ar-AA28Zauf"
+    },
     {
       "id": "2026-07-29-novo-byd-song-pro-2027-flex-ja-esta-nas-lojas",
       "data": "2026-07-29",
