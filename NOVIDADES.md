@@ -1,10 +1,40 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-07-30 14:53:03 UTC
+Última verificação: 2026-07-30 21:45:56 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 30/07/2026 — BYD Song Pro 2027: maior que o Jeep Compass, SUV híbrido flex estreia em agosto com até 235 cv, bateria de 18,3 kWh, 4,73 metros de comprimento, visual renovado e produção ...
+
+*imprensa · Clickpetroleoegas*
+
+BYD Song Pro 2027 chega ao Brasil em agosto com sistema híbrido flex, até 235 cv, bateria de 18,3 kWh, novo visual e produção na Bahia.
+
+[Abrir matéria](https://clickpetroleoegas.com.br/byd-song-pro-2027-maior-que-o-jeep-compass-suv-hibrido-flex-estreia-em-agosto-com-ate-235-cv-bateria-de-183-kwh-473-metros-de-comprimento-visual-renovado-e-producao-na-bahia-afch/)
+
+---
+
+## 30/07/2026 — BYD já estoca Song Pro flex nas concessionárias e aumenta pressão sobre Haval H6 e Corolla Cross
+
+*imprensa · Garagem360*
+
+BYD prepara o Song Pro híbrido plug-in flex, feito no Brasil, para pressionar Haval H6 e Corolla Cross. Veja os detalhes.
+
+[Abrir matéria](https://garagem360.com.br/byd-ja-estoca-song-pro-flex-nas-concessionarias-e-aumenta-pressao-sobre-haval-h6-e-corolla-cross/)
+
+---
+
+## 30/07/2026 — BYD antecipa chegada do novo Song Pro 2027 flex às lojas; SUV híbrido nacional já tem preço revelado
+
+*imprensa · Mundodoautomovelparapcd*
+
+SUV reestilizado começa a chegar às concessionárias antes do lançamento oficial, estreia tecnologia híbrida flex da BYD e será produzido na fábrica de Camaçari (BA).
+
+[Abrir matéria](https://mundodoautomovelparapcd.com.br/byd-antecipa-chegada-do-novo-song-pro-2027-flex-as-lojas-suv-hibrido-nacional-ja-tem-preco-revelado/)
 
 ---
 
