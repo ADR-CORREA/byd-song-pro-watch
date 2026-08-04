@@ -1,10 +1,80 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-04 15:06:59 UTC
+Última verificação: 2026-08-04 21:51:09 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 04/08/2026 — BYD Song Pro Flex estreia a partir de R$ 176,9 mil; veja o que muda com etanol
+
+*imprensa · Noticias*
+
+O Song Pro Flex utiliza tração dianteira e tem potência combinada de 218 cv na versão GL e 219 cv na GS. O torque máximo é de 300 Nm para as duas configurações. O Song Pro chega em um momento de ...
+
+[Abrir matéria](https://noticias.r7.com/prisma/autos-carros/byd-song-pro-flex-estreia-a-partir-de-r-1769-mil-veja-o-que-muda-com-etanol-04082026/)
+
+---
+
+## 04/08/2026 — BYD Song Pro 2027 estreia nacional, vira flex e GL fica R$ 13 mil mais barato
+
+*imprensa · Mundodoautomovelparapcd*
+
+SUV híbrido plug-in passa a ser produzido no Brasil, recebe novo visual e chega em duas versões, com preços entre R$ 176.990 e R$ 199.990.
+
+[Abrir matéria](https://mundodoautomovelparapcd.com.br/byd-song-pro-2027-estreia-nacional-vira-flex-e-gl-fica-r-13-mil-mais-barato/)
+
+---
+
+## 04/08/2026 — BYD renova o Song Pro 2027 com produção nacional, sistema híbrido flex e autonomia de 1.105 km por R$ 176.990
+
+*imprensa · Noticiasautomotivas*
+
+O BYD Song Pro Flex 2027 chegou ao mercado nacional com proposta de trazer o combustível vegetal para a mesa da proposta do SUV híbrido plug-in chinês, agora ...
+
+[Abrir matéria](https://www.noticiasautomotivas.com.br/byd-renova-o-song-pro-2027-com-producao-nacional-sistema-hibrido-flex-e-autonomia-de-1-105-km-por-r-176-990/)
+
+---
+
+## 04/08/2026 — Novo BYD Song Pro flex chega a partir de R$ 176.990
+
+*imprensa · Carros*
+
+SUV híbrido plug-in ganha motor a etanol, novo visual e potência de até 219 cv; modelo nacional chega às lojas nas versões GL e GS ...
+
+[Abrir matéria](https://carros.ig.com.br/2026-08-04/novo-byd-song-pro-flex-chega-a-partir-de-r--176990.html)
+
+---
+
+## 04/08/2026 — BYD lança Song Pro da linha 2027 com motor flex; veja preços e detalhes do SUV
+
+*imprensa · Autoo*
+
+A BYD apresenta oficialmente o SUV híbrido Song Pro da linha 2027 com sistema flex. O modelo começa a ser vendido por preços que partem de R$199.990 na versão GS e de R$176.990 na versão GL (preço efe ...
+
+[Abrir matéria](https://www.autoo.com.br/byd-lanca-song-pro-da-linha-2027-com-motor-flex-veja-precos-e-detalhes-do-suv/)
+
+---
+
+## 04/08/2026 — BYD Song Pro Flex une tecnologia híbrida e combustível renovável
+
+*imprensa · Conexaoto*
+
+A principal novidade da linha está na combinação entre eletrificação e tecnologia Flex Fuel. O conjunto foi desenvolvido com a participação de ...
+
+[Abrir matéria](https://conexaoto.com.br/2026/08/04/byd-song-pro-flex-une-tecnologia-hibrida-e-combustivel-renovavel)
+
+---
+
+## 03/08/2026 — BYD lança Song Pro híbrido flex com autonomia de 1.105 km e preços a partir de R$ 176.990
+
+*imprensa · Mixvale*
+
+A BYD oficializou, em 4 de agosto de 2026, os detalhes e valores do aguardado SUV Song Pro híbrido plug-in com motorização flex. O modelo, que já havia sido avistado em concessionárias, chega ao merca ...
+
+[Abrir matéria](https://www.mixvale.com.br/2026/08/04/byd-lanca-song-pro-hibrido-flex-com-autonomia-de-1-105-km-e-precos-a-partir-de-r-176-990/)
 
 ---
 
