@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-08-04T21:51:09Z",
+  "atualizado_em": "2026-08-05T14:59:31Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-08-05-byd-song-pro-2027-vira-hibrido-plug-in-flex-e",
+      "data": "2026-08-05",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD Song Pro 2027 vira híbrido plug-in flex e estreia por R$ 176.990 para se manter na liderança",
+      "resumo": "Híbrido mais vendido do mercado nacional, BYD Song Pro 2027 PHEV perde potência, mas ganha autonomia elétrica, equipamentos e Google Integrado ...",
+      "fonte": "Motorshow",
+      "link": "https://motorshow.com.br/byd-song-pro-2027-vira-hibrido-plug-in-flex"
+    },
+    {
+      "id": "2026-08-05-byd-song-pro-gs-x-corolla-cross-xrx-hev-qual-",
+      "data": "2026-08-05",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD Song Pro GS x Corolla Cross XRX HEV: qual SUV híbrido vale mais?",
+      "resumo": "SUV da BYD custa R$ 26 mil menos e entrega mais espaço; veja o comparativo de motorização, equipamentos e ficha técnica ...",
+      "fonte": "Msn",
+      "link": "https://www.msn.com/pt-pt/motor/suvs/byd-song-pro-gs-x-corolla-cross-xrx-hev-qual-suv-h%C3%ADbrido-vale-mais/ar-AA29rkSk"
+    },
+    {
+      "id": "2026-08-04-byd-song-pro-flex-chega-ao-mercado-brasileiro",
+      "data": "2026-08-04",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD Song Pro flex chega ao mercado brasileiro com preços a partir de R$ 176.990",
+      "resumo": "A BYD, gigante automotiva chinesa, expande sua linha de veículos híbridos no Brasil com o lançamento oficial do SUV Song Pro flex. Anunciado em 4 de agosto de 2026, o modelo já está disponível em pré- ...",
+      "fonte": "Mixvale",
+      "link": "https://www.mixvale.com.br/2026/08/05/byd-song-pro-flex-chega-ao-mercado-brasileiro-com-precos-a-partir-de-r-176-990/"
+    },
     {
       "id": "2026-08-04-byd-song-pro-flex-estreia-a-partir-de-r-176-9",
       "data": "2026-08-04",

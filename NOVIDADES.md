@@ -1,10 +1,40 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-04 21:51:09 UTC
+Última verificação: 2026-08-05 14:59:31 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 05/08/2026 — BYD Song Pro 2027 vira híbrido plug-in flex e estreia por R$ 176.990 para se manter na liderança
+
+*imprensa · Motorshow*
+
+Híbrido mais vendido do mercado nacional, BYD Song Pro 2027 PHEV perde potência, mas ganha autonomia elétrica, equipamentos e Google Integrado ...
+
+[Abrir matéria](https://motorshow.com.br/byd-song-pro-2027-vira-hibrido-plug-in-flex)
+
+---
+
+## 05/08/2026 — BYD Song Pro GS x Corolla Cross XRX HEV: qual SUV híbrido vale mais?
+
+*imprensa · Msn*
+
+SUV da BYD custa R$ 26 mil menos e entrega mais espaço; veja o comparativo de motorização, equipamentos e ficha técnica ...
+
+[Abrir matéria](https://www.msn.com/pt-pt/motor/suvs/byd-song-pro-gs-x-corolla-cross-xrx-hev-qual-suv-h%C3%ADbrido-vale-mais/ar-AA29rkSk)
+
+---
+
+## 04/08/2026 — BYD Song Pro flex chega ao mercado brasileiro com preços a partir de R$ 176.990
+
+*imprensa · Mixvale*
+
+A BYD, gigante automotiva chinesa, expande sua linha de veículos híbridos no Brasil com o lançamento oficial do SUV Song Pro flex. Anunciado em 4 de agosto de 2026, o modelo já está disponível em pré- ...
+
+[Abrir matéria](https://www.mixvale.com.br/2026/08/05/byd-song-pro-flex-chega-ao-mercado-brasileiro-com-precos-a-partir-de-r-176-990/)
 
 ---
 
