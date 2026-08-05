@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-05 14:59:31 UTC
+Última verificação: 2026-08-05 21:51:14 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 05/08/2026 — Novo BYD Song Pro Flex promete autonomia recorde de 1.105 km no Brasil
+
+*imprensa · Tribunapr*
+
+BYD lança o Song Pro Super-Híbrido Flex com preços a partir de R$ 176.990 e autonomia total de até 1.105 km. Leia na Tribuna do Paraná.
+
+[Abrir matéria](https://www.tribunapr.com.br/noticias/automoveis/byd-song-pro-flex-precos-autonomia-especificacoes/)
 
 ---
 

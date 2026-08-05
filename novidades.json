@@ -1,7 +1,17 @@
 {
-  "atualizado_em": "2026-08-05T14:59:31Z",
+  "atualizado_em": "2026-08-05T21:51:14Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-08-05-novo-byd-song-pro-flex-promete-autonomia-reco",
+      "data": "2026-08-05",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "Novo BYD Song Pro Flex promete autonomia recorde de 1.105 km no Brasil",
+      "resumo": "BYD lança o Song Pro Super-Híbrido Flex com preços a partir de R$ 176.990 e autonomia total de até 1.105 km. Leia na Tribuna do Paraná.",
+      "fonte": "Tribunapr",
+      "link": "https://www.tribunapr.com.br/noticias/automoveis/byd-song-pro-flex-precos-autonomia-especificacoes/"
+    },
     {
       "id": "2026-08-05-byd-song-pro-2027-vira-hibrido-plug-in-flex-e",
       "data": "2026-08-05",
