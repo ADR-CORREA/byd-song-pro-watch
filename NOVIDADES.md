@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-05 21:51:14 UTC
+Última verificação: 2026-08-06 14:58:34 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 06/08/2026 — BYD Song Pro Flex chega com preços no chão; confira as versões
+
+*imprensa · Canaltech*
+
+O novo BYD Song Pro 2027 está pronto para o mercado brasileiro. Após meses de expectativa, a gigante chinesa apresentou seu utilitário reestilizado com motoriza ...
+
+[Abrir matéria](https://canaltech.com.br/carros/byd-song-pro-flex-chega-com-precos-no-chao-confira-as-versoes/)
+
+---
+
+## 06/08/2026 — Song Pro 2027 pode ser comprado com painéis solares da BYD a R$ 512 por mês
+
+*promocao · Quatrorodas*
+
+Pacote com oito painéis solares tem plano de financiamento com taxa zero só para compradores do BYD Song Pro flex ...
+
+[Abrir matéria](https://quatrorodas.abril.com.br/carros-eletricos/song-pro-2027-pode-ser-comprado-com-paineis-solares-da-byd-a-r-512-por-mes/)
 
 ---
 
