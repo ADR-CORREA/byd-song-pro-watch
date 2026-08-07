@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-06 14:58:34 UTC
+Última verificação: 2026-08-07 00:57:26 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 06/08/2026 — BYD Song Pro Flex híbrido chega sem aumentar preço
+
+*imprensa · Tribunaonline*
+
+BYD lança o Song Pro Flex híbrido 2027 no Brasil, mantém preços e amplia autonomia elétrica, conforto e equipamentos.
+
+[Abrir matéria](https://tribunaonline.com.br/automotor/byd-song-pro-flex-hibrido-chega-sem-aumentar-preco-327828?home=espirito_santo)
+
+---
+
+## 06/08/2026 — BYD integra energia solar e mobilidade elétrica com kit para novo Song Pro Flex
+
+*imprensa · Mixvale*
+
+A BYD, gigante do setor automotivo e de energia, apresentou em 4 de agosto de 2026 uma novidade que une mobilidade sustentável e geração de energia: a possibilidade de adquirir um kit de energia solar ...
+
+[Abrir matéria](https://www.mixvale.com.br/2026/08/06/byd-integra-energia-solar-e-mobilidade-eletrica-com-kit-para-novo-song-pro-flex/)
 
 ---
 
