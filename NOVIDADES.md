@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-07 13:55:47 UTC
+Última verificação: 2026-08-07 21:18:46 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 07/08/2026 — BYD apresenta novo Song Pro Flex 2027 no Brasil com tecnologia híbrida e montagem nacional
+
+*imprensa · Mixvale*
+
+O BYD Song Pro 2027, um dos lançamentos mais aguardados pela gigante chinesa no setor automobilístico, está oficialmente preparado para estrear no mercado brasileiro. Após uma longa espera, a montador ...
+
+[Abrir matéria](https://www.mixvale.com.br/2026/08/07/byd-apresenta-novo-song-pro-flex-2027-no-brasil-com-tecnologia-hibrida-e-montagem-nacional/)
 
 ---
 
