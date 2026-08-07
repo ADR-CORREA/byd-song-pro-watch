@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-07 00:57:26 UTC
+Última verificação: 2026-08-07 13:55:47 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 06/08/2026 — Primeiras impressões: BYD Song Pro mostra evolução da marca com motor flex
+
+*imprensa · Diariodopoder*
+
+Não é de hoje que o Brasil é chamado de “celeiro do mundo”. Isso porque o país é o maior produtor de alimentos do planeta, principalmente entre as commodities (matérias-primas básicas), o que gerou ou ...
+
+[Abrir matéria](https://diariodopoder.com.br/diario-motor/primeiras-impressoes-byd-song-pro-mostra-evolucao-da-marca-com-motor-flex)
 
 ---
 
