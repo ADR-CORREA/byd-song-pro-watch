@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-08 13:30:00 UTC
+Última verificação: 2026-08-08 21:01:29 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 08/08/2026 — Semana Motor1.com: BYD lança Song Pro flex, nova Ram Dakota Big Horn e mais de 8 novidades
+
+*imprensa · Msn*
+
+Como destaque, o lançamento do BYD Song Pro flex, a chegada da Ram Dakota e 1500 Big Horn, segredos do Jeep Compass , GWM Poer 2027 e mais ...
+
+[Abrir matéria](https://www.msn.com/pt-pt/motor/geral/semana-motor1-com-byd-lan%C3%A7a-song-pro-flex-nova-ram-dakota-big-horn-e-mais-de-8-novidades/ar-AA29Fs03)
 
 ---
 
