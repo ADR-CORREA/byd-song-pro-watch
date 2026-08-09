@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-08-08T21:01:29Z",
+  "atualizado_em": "2026-08-09T13:33:43Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-08-09-byd-song-pro-gs-flex-silencio-bom-acabamento-",
+      "data": "2026-08-09",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD Song Pro GS flex: silêncio, bom acabamento e menos potência",
+      "resumo": "Uma voltinha na terra e no asfalto para sentir as mudanças de suspensão e trem de força ...",
+      "fonte": "Msn",
+      "link": "https://www.msn.com/pt-pt/tecnologia/eletr%C3%B3nicos-de-consumo/byd-song-pro-gs-flex-sil%C3%AAncio-bom-acabamento-e-menos-pot%C3%AAncia/ar-AA29IaHj"
+    },
+    {
+      "id": "2026-08-08-byd-lanca-song-pro-flex-1-suv-hibrido-a-etano",
+      "data": "2026-08-08",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD lança Song Pro Flex: 1º SUV híbrido a etanol da marca no Brasil",
+      "resumo": "A montadora chinesa BYD oficializou o lançamento do seu novo SUV médio Song Pro híbrido flex fuel. O modelo marca uma virada histórica para a fabricante por ser o seu primeiro veículo no país com ...",
+      "fonte": "Paraibaonline",
+      "link": "https://paraibaonline.com.br/brasil/2026/08/08/byd-lanca-song-pro-flex-1o-suv-hibrido-a-etanol-da-marca-no-brasil/"
+    },
+    {
+      "id": "2026-08-07-byd-song-pro-flex-estreia-com-ate-120-km-elet",
+      "data": "2026-08-07",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD Song Pro flex estreia com até 120 km elétricos e abre nova pressão sobre Haval H6 e Corolla Cross",
+      "resumo": "A BYD deu um passo inédito no mercado brasileiro: o Song Pro Flex, apresentado nesta semana, é o primeiro carro híbrido plug-in com motor flex fabricado no país. O SUV chega às concessionárias em todo ...",
+      "fonte": "Garagem360",
+      "link": "https://garagem360.com.br/byd-song-pro-flex-estreia-com-ate-120-km-eletricos-e-abre-nova-pressao-sobre-haval-h6-e-corolla-cross/"
+    },
     {
       "id": "2026-08-08-semana-motor1-com-byd-lanca-song-pro-flex-nov",
       "data": "2026-08-08",

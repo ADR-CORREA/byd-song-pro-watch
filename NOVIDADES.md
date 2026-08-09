@@ -1,10 +1,40 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-08 21:01:29 UTC
+Última verificação: 2026-08-09 13:33:43 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 09/08/2026 — BYD Song Pro GS flex: silêncio, bom acabamento e menos potência
+
+*imprensa · Msn*
+
+Uma voltinha na terra e no asfalto para sentir as mudanças de suspensão e trem de força ...
+
+[Abrir matéria](https://www.msn.com/pt-pt/tecnologia/eletr%C3%B3nicos-de-consumo/byd-song-pro-gs-flex-sil%C3%AAncio-bom-acabamento-e-menos-pot%C3%AAncia/ar-AA29IaHj)
+
+---
+
+## 08/08/2026 — BYD lança Song Pro Flex: 1º SUV híbrido a etanol da marca no Brasil
+
+*imprensa · Paraibaonline*
+
+A montadora chinesa BYD oficializou o lançamento do seu novo SUV médio Song Pro híbrido flex fuel. O modelo marca uma virada histórica para a fabricante por ser o seu primeiro veículo no país com ...
+
+[Abrir matéria](https://paraibaonline.com.br/brasil/2026/08/08/byd-lanca-song-pro-flex-1o-suv-hibrido-a-etanol-da-marca-no-brasil/)
+
+---
+
+## 07/08/2026 — BYD Song Pro flex estreia com até 120 km elétricos e abre nova pressão sobre Haval H6 e Corolla Cross
+
+*imprensa · Garagem360*
+
+A BYD deu um passo inédito no mercado brasileiro: o Song Pro Flex, apresentado nesta semana, é o primeiro carro híbrido plug-in com motor flex fabricado no país. O SUV chega às concessionárias em todo ...
+
+[Abrir matéria](https://garagem360.com.br/byd-song-pro-flex-estreia-com-ate-120-km-eletricos-e-abre-nova-pressao-sobre-haval-h6-e-corolla-cross/)
 
 ---
 
