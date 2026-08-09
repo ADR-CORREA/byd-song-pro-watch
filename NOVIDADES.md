@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-09 13:33:43 UTC
+Última verificação: 2026-08-09 21:04:38 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 09/08/2026 — Teste: BYD Song Pro flex corrige quase todos os pontos fracos, exceto um
+
+*imprensa · Autoesporte*
+
+SUV médio passa pela primeira grande atualização desde o lançamento, estreia motor híbrido plug-in flex e fica mais eficiente preparado para o etanol ...
+
+[Abrir matéria](https://autoesporte.globo.com/carros/testes-de-carros/review/2026/08/teste-byd-song-pro-flex-2027.ghtml)
 
 ---
 
