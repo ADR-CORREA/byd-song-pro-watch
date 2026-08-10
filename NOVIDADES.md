@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-10 14:02:23 UTC
+Última verificação: 2026-08-10 21:22:23 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 10/08/2026 — Song Pro 2027 CORTA R$ 13 mil, vira FLEX e complica a vida do Compass e Corolla Cross
+
+*imprensa · Garagem360*
+
+BYD Song Pro 2027 estreia por R$ 176.990, corta R$ 13 mil, passa a ser híbrido plug-in flex e aumenta a pressão sobre Compass e Corolla Cross ...
+
+[Abrir matéria](https://garagem360.com.br/song-pro-2027-corta-r-13-mil-vira-flex-e-complica-a-vida-do-compass-e-corolla-cross/)
+
+---
+
+## 10/08/2026 — BYD enfrenta “haters” de carros eletrificados para anunciar novo Song Pro Flex
+
+*imprensa · Portaldapropaganda*
+
+Em criação da We, marca promove embate entre haters detratores e o novo modelo, o primeiro super híbrido do mundo movido a etanol, gasolina e energia. Agosto 2026 – O maior concorrente da BYD é o desc ...
+
+[Abrir matéria](https://www.portaldapropaganda.com.br/noticias/42188/byd-enfrenta-haters-de-carros-eletrificados-para-anunciar-novo-song-pro-flex/)
 
 ---
 
