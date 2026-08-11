@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-10 21:22:23 UTC
+Última verificação: 2026-08-11 14:03:09 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 09/08/2026 — Conheça o BYD Song Pro Flex, o SUV que coloca a marca chinesa na era bio-híbrida
+
+*imprensa · Diariodepernambuco*
+
+A BYD apresentou, na última semana, a versão 2027 do SUV Song Pro, trazendo como prinicpal novidade o motor turbo 1.5 Flex DM-i, o primeiro híbrido da marca a chegar às concessionárias equipado com mo ...
+
+[Abrir matéria](https://www.diariodepernambuco.com.br/dp-/dp-auto/2026/08/11720859-conheca-o-byd-song-pro-flex-o-suv-que-coloca-a-marca-chinesa-na-era-bio-hibrida.html)
 
 ---
 
