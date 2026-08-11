@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-11 14:03:09 UTC
+Última verificação: 2026-08-11 21:25:34 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 11/08/2026 — Como o BYD Song Pro 2027 ficou melhor mesmo com menos potência e mais lento
+
+*imprensa · Quatrorodas*
+
+O que mais chama a atenção do BYD Song Pro 2027 é o visual atualizado e o fato de a marca chinesa enfim conseguir colocar seu sistema híbrido plug-in flex nas lojas. Mas esta atualização do SUV médio ...
+
+[Abrir matéria](https://quatrorodas.abril.com.br/testes/como-o-byd-song-pro-2027-ficou-melhor-mesmo-com-menos-potencia-e-mais-lento/)
 
 ---
 
