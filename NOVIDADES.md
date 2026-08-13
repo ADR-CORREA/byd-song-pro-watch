@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-13 14:05:05 UTC
+Última verificação: 2026-08-13 21:25:32 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 13/08/2026 — BYD Song Pro 2027 roda 805 km com etanol e mantém versão GS em R$ 199.990
+
+*imprensa · Garagem360*
+
+BYD Song Pro 2027 vira híbrido flex, roda até 805 km com etanol e mantém a versão GS por R$ 199.990, com 219 cv.
+
+[Abrir matéria](https://garagem360.com.br/byd-song-pro-2027-roda-805-km-com-etanol-e-mantem-versao-gs-em-r-199-990/)
 
 ---
 
