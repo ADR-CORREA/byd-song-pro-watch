@@ -1,7 +1,27 @@
 {
-  "atualizado_em": "2026-08-15T13:14:22Z",
+  "atualizado_em": "2026-08-15T20:52:36Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-08-15-byd-oferece-oito-paineis-solares-por-r-512-ao",
+      "data": "2026-08-15",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD oferece oito painéis solares por R$ 512 ao comprador do Song Pro 2027",
+      "resumo": "Além do carro em si, a BYD decidiu oferecer um item extra para quem comprar o Song Pro 2027: um kit completo de energia solar residencial, com oito painéis fabricados pela própria marca no Brasil. A ...",
+      "fonte": "Garagem360",
+      "link": "https://garagem360.com.br/byd-oferece-oito-paineis-solares-por-r-512-ao-comprador-do-song-pro-2027/"
+    },
+    {
+      "id": "2026-08-15-byd-carmais-promove-vip-day-com-novo-song-pro",
+      "data": "2026-08-15",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD Carmais promove VIP Day com novo Song Pro Flex em destaque",
+      "resumo": "A BYD Carmais realiza neste sábado 15 o VIP Day evento especial promovido simultaneamente em todas as lojas da rede ...",
+      "fonte": "Portalaz",
+      "link": "https://www.portalaz.com.br/noticia/geral/97318/byd-carmais-promove-vip-day-com-novo-song-pro-flex-em-destaque/"
+    },
     {
       "id": "2026-08-13-byd-song-pro-2027-roda-805-km-com-etanol-e-ma",
       "data": "2026-08-13",

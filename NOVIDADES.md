@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-15 13:14:22 UTC
+Última verificação: 2026-08-15 20:52:36 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 15/08/2026 — BYD oferece oito painéis solares por R$ 512 ao comprador do Song Pro 2027
+
+*imprensa · Garagem360*
+
+Além do carro em si, a BYD decidiu oferecer um item extra para quem comprar o Song Pro 2027: um kit completo de energia solar residencial, com oito painéis fabricados pela própria marca no Brasil. A ...
+
+[Abrir matéria](https://garagem360.com.br/byd-oferece-oito-paineis-solares-por-r-512-ao-comprador-do-song-pro-2027/)
+
+---
+
+## 15/08/2026 — BYD Carmais promove VIP Day com novo Song Pro Flex em destaque
+
+*imprensa · Portalaz*
+
+A BYD Carmais realiza neste sábado 15 o VIP Day evento especial promovido simultaneamente em todas as lojas da rede ...
+
+[Abrir matéria](https://www.portalaz.com.br/noticia/geral/97318/byd-carmais-promove-vip-day-com-novo-song-pro-flex-em-destaque/)
 
 ---
 
