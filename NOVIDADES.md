@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-17 13:23:56 UTC
+Última verificação: 2026-08-17 20:57:29 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 17/08/2026 — BYD Song Pro Híbrido Plug-in 2027 ganha novo visual sem mudança no preço
+
+*imprensa · Noticias*
+
+O novo BYD Song Pro híbrido plug-in Flex foi apresentado no Museu da Cana de Açúcar em Ribeirão Preto (SP). O modelo agora pode ser abastecido com etanol ou gasolina e possui uma autonomia de até 1.10 ...
+
+[Abrir matéria](https://noticias.r7.com/brasilia/auto-record/video/byd-song-pro-hibrido-plug-in-2027-ganha-novo-visual-sem-mudanca-no-preco-17082026/)
 
 ---
 
