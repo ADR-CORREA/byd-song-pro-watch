@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-19 20:57:35 UTC
+Última verificação: 2026-08-20 13:30:15 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 19/08/2026 — DVA BYD Balneário Camboriú apresenta o novo BYD Song Pro Flex, primeiro híbrido plug-in flex do mundo
+
+*imprensa · Pagina3*
+
+A DVA BYD de Balneário Camboriú apresenta nesta quinta-feira (20) o novo BYD Song Pro Flex, evolução do SUV médio mais vendido da marca no Brasil e agora equipado com tecnologia super híbrida flex fue ...
+
+[Abrir matéria](https://pagina3.com.br/colunistas/alex-ferrer/dva-byd-balneario-camboriu-apresenta-o-novo-byd-song-pro-flex-primeiro-hibrido-plug-in-flex-do-mundo/)
 
 ---
 
