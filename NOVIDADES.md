@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-25 13:31:30 UTC
+Última verificação: 2026-08-25 20:58:17 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 25/08/2026 — BYD Mako: picape híbrida flex do Song Pro e rival da Toro é revelada sem disfarces
+
+*imprensa · Itatiaia*
+
+Um dos lançamentos mais aguardados de 2026, a BYD Mako foi revelada sem camuflagem na véspera do Festival Interlagos, em São Paulo. O jornalista Renan Bandeira, do site Mobiauto, confirmou com fontes ...
+
+[Abrir matéria](https://www.itatiaia.com.br/auto/byd-mako-picape-hibrida-flex-do-song-pro-e-rival-da-toro-e-revelada-sem-disfarces/)
 
 ---
 
