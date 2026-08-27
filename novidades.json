@@ -1,7 +1,27 @@
 {
-  "atualizado_em": "2026-08-27T00:01:28Z",
+  "atualizado_em": "2026-08-27T22:33:11Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-08-26-byd-inclui-king-song-pro-e-atto-2-no-move-bra",
+      "data": "2026-08-26",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD inclui King, Song Pro e Atto 2 no Move Brasil Táxi e Aplicativos",
+      "resumo": "A BYD obteve aprovação do governo federal para incluir King, Song Pro, Song Pro Flex e Atto 2 no Move Brasil – Táxi e Aplicativos, programa de financiamento de veículos novos para motoristas ...",
+      "fonte": "Autoindustria",
+      "link": "https://www.autoindustria.com.br/2026/08/26/byd-inclui-king-song-pro-e-atto-2-no-move-brasil-taxi-e-aplicativos/"
+    },
+    {
+      "id": "2026-08-26-byd-coloca-king-song-pro-e-atto-2-no-move-bra",
+      "data": "2026-08-26",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD coloca King, Song Pro e Atto 2 no Move Brasil",
+      "resumo": "Novos modelos passam a integrar o programa após o teto para aquisição de veículos subir de R$ 150 mil para R$ 200 mil ...",
+      "fonte": "Canalve",
+      "link": "https://canalve.com.br/byd-coloca-king-song-pro-atto-2-move-brasil/"
+    },
     {
       "id": "2026-08-25-novo-byd-song-pro-flex-e-lancado-em-balneario",
       "data": "2026-08-25",
