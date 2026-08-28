@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-08-27 22:33:11 UTC
+Última verificação: 2026-08-28 04:26:52 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 26/08/2026 — BYD adiciona King, Song Pro e Atto 2 ao Move Brasil
+
+*imprensa · Vrum*
+
+Três novos modelos 2 entram no programa do governo que oferece incentivos e crédito facilitado para taxistas e motoristas de app ...
+
+[Abrir matéria](https://www.vrum.com.br/mercado/2026/08/7487816-byd-adiciona-king-song-pro-e-atto-2-ao-move-brasil.html)
 
 ---
 
