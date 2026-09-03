@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-09-02 22:48:27 UTC
+Última verificação: 2026-09-03 16:39:38 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 03/09/2026 — BYD King, Song Pro e Yuan Plus: confira os preços da linha 2026
+
+*imprensa · Vrum*
+
+Com foco em rivais como o Toyota Corolla, montadora chinesa define valores para seus principais modelos híbridos e elétricos no país, mirando clientes finais e frotistas.
+
+[Abrir matéria](https://www.vrum.com.br/bom-negocio/2026/09/7493049-byd-king-song-pro-e-yuan-plus-confira-os-precos-da-linha-2026.html)
 
 ---
 
