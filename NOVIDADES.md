@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-09-04 22:30:00 UTC
+Última verificação: 2026-09-05 15:30:02 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 05/09/2026 — BYD Song Pro, Geely EX5 EM-i ou Jaecoo 7? Compare as versões mais caras
+
+*imprensa · Autoesporte*
+
+Os três SUVs híbridos plug-in de origem chinesa têm porte médio e muitos equipamentos: conheça melhor cada um deles ...
+
+[Abrir matéria](https://autoesporte.globo.com/setor-automotivo/mercado-automotivo/noticia/2026/09/byd-song-pro-geely-ex5-jaecoo-7-comparativo.ghtml)
 
 ---
 
