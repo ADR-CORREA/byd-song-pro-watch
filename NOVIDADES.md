@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-09-16 17:15:36 UTC
+Última verificação: 2026-09-16 23:13:06 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 16/09/2026 — BYD amplia equipe em Camaçari para pôr terceiro turno em operação e avança rumo à produção completa de Dolphin Mini, King e Song Pro
+
+*imprensa · Noticiasautomotivas*
+
+A BYD já emprega 8 mil funcionários em seu complexo industrial na cidade de Camaçari, na região metropolitana de Salvador, na Bahia. O número mostra como a ...
+
+[Abrir matéria](https://www.noticiasautomotivas.com.br/byd-amplia-equipe-em-camacari-para-por-terceiro-turno-em-operacao-e-avanca-rumo-a-producao-completa-de-dolphin-mini-king-e-song-pro/)
 
 ---
 
