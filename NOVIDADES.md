@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-09-20 22:40:14 UTC
+Última verificação: 2026-09-21 18:18:12 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 20/09/2026 — BYD quer zerar os estoques do Song Pro e oferece desconto de R$ 41 mil para PCD em setembro de 2026
+
+*promocao · Abcmais*
+
+A BYD está com pressa para esvaziar o estoque do Song Pro GL da geração anterior. Para isso, a montadora chinesa oferece em setembro de 2026 um desconto de R$ 41 mil na compra do modelo por pessoas ...
+
+[Abrir matéria](https://www.abcmais.com/trends/byd-quer-zerar-os-estoques-do-song-pro-e-oferece-desconto-de-r-41-mil-para-pcd-em-setembro-de-2026/)
 
 ---
 
