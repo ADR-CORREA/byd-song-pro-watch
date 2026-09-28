@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-09-27 23:21:50 UTC
+Última verificação: 2026-09-28 19:48:58 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 28/09/2026 — BYD Song Pro flex fica mais barato para CNPJ em setembro de 2026, mas somente versão GL é oferecida
+
+*imprensa · Mundodoautomovelparapcd*
+
+Song Pro flex recebe condição especial para CNPJ setembro de 2026; SUV já conta com propulsor e design atualizados.
+
+[Abrir matéria](https://mundodoautomovelparapcd.com.br/byd-song-pro-flex-para-cnpj-em-setembro-de-2026/)
 
 ---
 
