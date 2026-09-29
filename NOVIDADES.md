@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-09-29 18:13:59 UTC
+Última verificação: 2026-09-29 23:55:55 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 29/09/2026 — BYD Song Pro ou Leapmotor B10: qual vale mais a pena entre R$ 180 mil e R$ 200 mil
+
+*imprensa · Vrum*
+
+O Leapmotor B10 Ultra-Híbrido foi lançado oficialmente por R$ 179.990, em versão única. Já o BYD Song Pro DM 5.0 está cotado a R$ 196.990. Essa diferença de aproximadamente R$ 17 mil coloca o novato ...
+
+[Abrir matéria](https://www.vrum.com.br/avaliacoes/2026/09/7510396-byd-song-pro-ou-leapmotor-b10-qual-vale-mais-a-pena-entre-rs-180-mil-e-rs-200-mil.html)
+
+---
+
+## 29/09/2026 — Rival do BYD Song Pro: Leapmotor lança o SUV B10 ultra-híbrido por R$ 179.990
+
+*imprensa · Brasil*
+
+Confira o preço, o consumo e todas as especificações do novo modelo no Brasil: Leapmotor lança o SUV B10 ultra-híbrido com ...
+
+[Abrir matéria](https://brasil.perfil.com/carros/rival-do-byd-song-pro-leapmotor-lanca-o-suv-b10-ultra-hibrido-por-r-179-990.phtml)
 
 ---
 
