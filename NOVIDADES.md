@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-09-29 23:55:55 UTC
+Última verificação: 2026-09-30 18:06:44 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 30/09/2026 — BYD Song Pro GL tem desconto de R$ 13 mil e fica com preço de Yaris Cross
+
+*promocao · Autoesporte*
+
+Bônus é válido para versão de entrada na venda direta para pessoas físicas; SUV híbrido plug-in acaba de virar flex e entrega 218 cv ...
+
+[Abrir matéria](https://autoesporte.globo.com/setor-automotivo/mercado-automotivo/noticia/2026/09/byd-song-pro-gl-desconto-r-13-mil-preco-yaris-cross.ghtml)
 
 ---
 
