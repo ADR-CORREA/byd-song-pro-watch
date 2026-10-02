@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-02 18:00:31 UTC
+Última verificação: 2026-10-02 23:58:06 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 02/10/2026 — BYD Song Pro flex tem desconto de R$ 13 mil para pessoa física
+
+*promocao · Carros*
+
+SUV híbrido plug-in aparece por R$ 176.990 em concessionárias de três capitais; condição exige venda direta e contempla a versão GL da linha 2027 ...
+
+[Abrir matéria](https://carros.ig.com.br/veiculos-eletricos/2026-10-02/byd-song-pro-flex-desconto-13-mil-pessoa-fisica.html)
+
+---
+
+## 02/10/2026 — BYD chega a 8,5 mil funcionários em Camaçari e quer chegar até 10 mil ainda em 2026
+
+*imprensa · Mundodoautomovelparapcd*
+
+Montadora contratou mais 410 profissionais em outubro e pretende alcançar 10 mil empregos diretos ainda em 2026.
+
+[Abrir matéria](https://mundodoautomovelparapcd.com.br/byd-chega-a-85-mil-funcionarios-em-camacari-e-quer-chegar-ate-10-mil-ainda-em-2026/)
 
 ---
 
