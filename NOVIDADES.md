@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-05 20:53:10 UTC
+Última verificação: 2026-10-06 01:24:11 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 01/10/2026 — BYD Song Pro GL recebe desconto de R$ 13 mil e fica na faixa de preço do Toyota Yaris Cross
+
+*promocao · Diariodepernambuco*
+
+Concessionárias da BYD em Brasília, São Paulo e no Rio de Janeiro estão comercializando o Song Pro GL por R$ 176.990, R$ 13 mil abaixo da tabela de R$ 189.990. Com isso, o SUV híbrido plug-in fica pró ...
+
+[Abrir matéria](https://www.diariodepernambuco.com.br/dptrends/byd-song-pro-gl-recebe-desconto-de-r-13-mil-e-fica-na-faixa-de-preco-do-toyota-yaris-cross/)
 
 ---
 
