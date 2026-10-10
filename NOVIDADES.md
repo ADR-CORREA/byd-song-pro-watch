@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-10 17:27:19 UTC
+Última verificação: 2026-10-10 23:47:15 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 10/10/2026 — BYD prepara terceiro turno em Camaçari após superar 145 mil carros vendidos em 2026
+
+*imprensa · Terra*
+
+Fábrica baiana produz Dolphin Mini, King e Song Pro e terá 1.500 novas contratações para ampliar a operação ainda em 2026 ...
+
+[Abrir matéria](https://www.terra.com.br/mobilidade/byd-prepara-terceiro-turno-em-camacari-apos-superar-145-mil-carros-vendidos-em-2026,e26f3ad2a14ce15220188eb326bba28ar51uh6ne.html)
 
 ---
 
