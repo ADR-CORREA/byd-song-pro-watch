@@ -1,6 +1,6 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-09 18:29:46 UTC
+Última verificação: 2026-10-10 00:17:10 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
