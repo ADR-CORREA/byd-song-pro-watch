@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-19 23:54:14 UTC
+Última verificação: 2026-10-20 17:29:14 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 20/10/2026 — BYD Song Pro Flex para PCD em outubro de 2026; confira os preços das duas versões
+
+*promocao · Mundodoautomovelparapcd*
+
+SUV híbrido oferece descontos nas configurações GL e GS, com motor flex, diferentes baterias e equipamentos de assistência à condução.
+
+[Abrir matéria](https://mundodoautomovelparapcd.com.br/byd-song-pro-flex-para-pcd-em-outubro-de-2026/)
 
 ---
 
