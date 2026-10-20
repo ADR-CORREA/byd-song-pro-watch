@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-20 17:29:14 UTC
+Última verificação: 2026-10-20 23:20:42 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 20/10/2026 — BYD Song Pro GS x GWM Haval H6 HEV: qual é o melhor SUV híbrido de R$ 199.900
+
+*imprensa · Autoesporte*
+
+SUVs médios flex são diferentes na mecânica, pois um é plug-in (PHEV) e o outro híbrido convencional (HEV); qual deles vale mais a pena nesta faixa de preço ...
+
+[Abrir matéria](https://autoesporte.globo.com/setor-automotivo/mercado-automotivo/noticia/2026/10/byd-song-pro-gs-gwm-haval-h6-hev-qual-melhor-suv-hibrido-de-r-199900.ghtml)
 
 ---
 
