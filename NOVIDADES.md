@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-20 23:20:42 UTC
+Última verificação: 2026-10-21 17:36:58 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 18/10/2026 — BYD fez promoção e reduziu o preço do Song Pro em R$ 28,5 mil
+
+*promocao · Diariodepernambuco*
+
+A BYD anunciou um desconto de R$ 28,5 mil no Song Pro, um de seus SUVs médios mais procurados no Brasil. Com a redução, o modelo híbrido passa a custar menos e pode interessar a consumidores que ...
+
+[Abrir matéria](https://www.diariodepernambuco.com.br/dptrends/byd-fez-promocao-e-reduziu-o-preco-do-song-pro-em-r-285-mil/)
 
 ---
 
