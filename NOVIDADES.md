@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-21 17:36:58 UTC
+Última verificação: 2026-10-21 23:34:23 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 21/10/2026 — BYD Song Pro e GWM Haval H6: SUVs híbridos de até R$ 200 mil
+
+*imprensa · Diariodoestadogo*
+
+Os SUVs chineses BYD Song Pro GS 2027 e GWM Haval H6 HEV One 2027 protagonizam a disputa acirrada no segmento dos híbridos premium, ambos na faixa de R$ 200 mil. O embate entre esses veículos ...
+
+[Abrir matéria](https://diariodoestadogo.com.br/byd-song-pro-e-gwm-haval-h6-suvs-hibridos-de-ate-r-200-mil/)
 
 ---
 
