@@ -1,7 +1,27 @@
 {
-  "atualizado_em": "2026-10-22T23:31:45Z",
+  "atualizado_em": "2026-10-23T17:24:31Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-10-23-byd-treina-1-100-profissionais-em-camacari-pa",
+      "data": "2026-10-23",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD treina 1.100 profissionais em Camaçari para ter carros 100% nacionais em 2027",
+      "resumo": "BYD treina 1.100 profissionais em Camaçari (BA) para soldar e pintar carros no Brasil e lançar modelos 100% nacionais em 2027, com foco em exportar.",
+      "fonte": "Piranot",
+      "link": "https://www.piranot.com.br/2026/10/23/noticias/economia/automoveis-veiculos/byd-treina-profissionais-camacari-nacionalizacao/"
+    },
+    {
+      "id": "2026-10-23-byd-completa-um-ano-em-camacari-com-avanco-da",
+      "data": "2026-10-23",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD completa um ano em Camaçari com avanço da produção nacional",
+      "resumo": "O complexo industrial da BYD em Camaçari, na Bahia, completa um ano de operação consolidando uma das viradas de chave ...",
+      "fonte": "Jornaldamidia",
+      "link": "https://www.jornaldamidia.com.br/2026/10/23/byd-completa-um-ano-em-camacari-com-avanco-da-producao-nacional/"
+    },
     {
       "id": "2026-10-21-byd-song-pro-e-gwm-haval-h6-suvs-hibridos-de-",
       "data": "2026-10-21",

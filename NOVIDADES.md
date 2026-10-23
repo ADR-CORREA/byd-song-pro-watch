@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-22 23:31:45 UTC
+Última verificação: 2026-10-23 17:24:31 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 23/10/2026 — BYD treina 1.100 profissionais em Camaçari para ter carros 100% nacionais em 2027
+
+*imprensa · Piranot*
+
+BYD treina 1.100 profissionais em Camaçari (BA) para soldar e pintar carros no Brasil e lançar modelos 100% nacionais em 2027, com foco em exportar.
+
+[Abrir matéria](https://www.piranot.com.br/2026/10/23/noticias/economia/automoveis-veiculos/byd-treina-profissionais-camacari-nacionalizacao/)
+
+---
+
+## 23/10/2026 — BYD completa um ano em Camaçari com avanço da produção nacional
+
+*imprensa · Jornaldamidia*
+
+O complexo industrial da BYD em Camaçari, na Bahia, completa um ano de operação consolidando uma das viradas de chave ...
+
+[Abrir matéria](https://www.jornaldamidia.com.br/2026/10/23/byd-completa-um-ano-em-camacari-com-avanco-da-producao-nacional/)
 
 ---
 
