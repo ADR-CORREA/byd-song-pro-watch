@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-10-23T17:24:31Z",
+  "atualizado_em": "2026-10-23T23:25:19Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-10-23-byd-song-pro-esta-com-desconto-de-quase-30-mi",
+      "data": "2026-10-23",
+      "tipo": "promocao",
+      "peso": "media",
+      "titulo": "BYD Song Pro está com desconto de quase 30 mil reais",
+      "resumo": "A BYD apresentou em agosto um novo design para o SUV híbrido Song Pro em agosto, mas algumas unidades parecem estar encalhadas nos pátios. O site da marca mostra que há ofertas para o modelo 2026/2027 ...",
+      "fonte": "Vrum",
+      "link": "https://www.vrum.com.br/bom-negocio/2026/10/7526709-byd-song-pro-esta-com-desconto-de-quase-30-mil-reais.html"
+    },
+    {
+      "id": "2026-10-23-byd-oferece-song-pro-gl-hibrido-com-r-28-500-",
+      "data": "2026-10-23",
+      "tipo": "promocao",
+      "peso": "alta",
+      "titulo": "BYD oferece Song Pro GL híbrido com R$ 28.500 de desconto no preço para o modelo 2026",
+      "resumo": "Site da marca ainda tem o SUV híbrido pré-facelift saindo por preço de Volkswagen T-Cross e Jeep Renegade ...",
+      "fonte": "Msn",
+      "link": "https://www.msn.com/pt-pt/noticias/ultimas/byd-oferece-song-pro-gl-h%C3%ADbrido-com-r-28500-de-desconto-no-pre%C3%A7o-para-o-modelo-2026/ar-AA2fVE8I"
+    },
+    {
+      "id": "2026-10-23-byd-projeta-10-mil-funcionarios-em-camacari-a",
+      "data": "2026-10-23",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD projeta 10 mil funcionários em Camaçari até o fim de 2026",
+      "resumo": "A fábrica da BYD em Camaçari, na Região Metropolitana de Salvador, completou um ano de operação com avanços na estrutura industrial ...",
+      "fonte": "Portalsalvadorfm",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/byd-projeta-10-mil-funcionarios-em-camacari-ate-o-fim-de-2026/"
+    },
     {
       "id": "2026-10-23-byd-treina-1-100-profissionais-em-camacari-pa",
       "data": "2026-10-23",

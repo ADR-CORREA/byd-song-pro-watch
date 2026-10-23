@@ -1,10 +1,40 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-23 17:24:31 UTC
+Última verificação: 2026-10-23 23:25:19 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 23/10/2026 — BYD Song Pro está com desconto de quase 30 mil reais
+
+*promocao · Vrum*
+
+A BYD apresentou em agosto um novo design para o SUV híbrido Song Pro em agosto, mas algumas unidades parecem estar encalhadas nos pátios. O site da marca mostra que há ofertas para o modelo 2026/2027 ...
+
+[Abrir matéria](https://www.vrum.com.br/bom-negocio/2026/10/7526709-byd-song-pro-esta-com-desconto-de-quase-30-mil-reais.html)
+
+---
+
+## 23/10/2026 — BYD oferece Song Pro GL híbrido com R$ 28.500 de desconto no preço para o modelo 2026
+
+*promocao · Msn*
+
+Site da marca ainda tem o SUV híbrido pré-facelift saindo por preço de Volkswagen T-Cross e Jeep Renegade ...
+
+[Abrir matéria](https://www.msn.com/pt-pt/noticias/ultimas/byd-oferece-song-pro-gl-h%C3%ADbrido-com-r-28500-de-desconto-no-pre%C3%A7o-para-o-modelo-2026/ar-AA2fVE8I)
+
+---
+
+## 23/10/2026 — BYD projeta 10 mil funcionários em Camaçari até o fim de 2026
+
+*imprensa · Portalsalvadorfm*
+
+A fábrica da BYD em Camaçari, na Região Metropolitana de Salvador, completou um ano de operação com avanços na estrutura industrial ...
+
+[Abrir matéria](https://www.portalsalvadorfm.com.br/bahia/byd-projeta-10-mil-funcionarios-em-camacari-ate-o-fim-de-2026/)
 
 ---
 
