@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-25 16:46:53 UTC
+Última verificação: 2026-10-25 22:46:36 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 25/10/2026 — BYD avança na produção nacional em Camaçari e prevê mais 500 contratações até o fim de 2026
+
+*imprensa · Jornalgrandebahia*
+
+A BYD avança na implantação das unidades de soldagem e pintura de sua fábrica em Camaçari, na Bahia, e informa que mais de 1.100 profissionais estão em treinamento. A empresa prevê contratar outros 50 ...
+
+[Abrir matéria](https://jornalgrandebahia.com.br/2026/10/byd-avanca-na-producao-nacional-em-camacari-e-preve-mais-500-contratacoes-ate-o-fim-de-2026/)
 
 ---
 
