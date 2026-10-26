@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-25 22:46:36 UTC
+Última verificação: 2026-10-26 18:50:40 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 24/10/2026 — BYD Song Pro ganha visual renovado, enquanto oferta de até R$ 28.500 de desconto recai sobre o GL anterior e derruba o preço para R$ 161.490
+
+*promocao · Noticiasautomotivas*
+
+BYD Song Pro renovado já chegou às lojas, mas a oferta de até R$ 28.500 de desconto vale para o GL anterior, anunciado por R$ 161.490.
+
+[Abrir matéria](https://www.noticiasautomotivas.com.br/byd-song-pro-ganha-visual-renovado-enquanto-oferta-de-ate-r-28-500-de-desconto-recai-sobre-o-gl-anterior-e-derruba-o-preco-para-r-161-490/)
 
 ---
 
