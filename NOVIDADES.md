@@ -1,10 +1,40 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-30 00:14:04 UTC
+Última verificação: 2026-10-30 18:10:26 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 30/10/2026 — BYD derruba preço e vende Song Pro mais barato que T-Cross
+
+*imprensa · Canaltech*
+
+A BYD jogou no chão os preços de um de seus SUVs híbridos mais desejados do Brasil. O Song Pro , que briga com Omoda 5 e com GWM Haval H6 pelo posto de mais ven ...
+
+[Abrir matéria](https://canaltech.com.br/carros/byd-derruba-preco-e-vende-song-pro-mais-barato-que-t-cross/)
+
+---
+
+## 30/10/2026 — BYD corta R$ 28,5 mil e deixa Song Pro mais barato que o T-Cross até sábado
+
+*promocao · Msn*
+
+Desconto vale até sábado (31), mas o preço anunciado se refere à configuração anterior à reestilização apresentada em agosto O post BYD corta R$ 28,5 mil e deixa Song Pro mais barato que o T-Cross até ...
+
+[Abrir matéria](https://www.msn.com/pt-br/carros/utilit%C3%A1rios-esportivos/byd-corta-r-28-5-mil-e-deixa-song-pro-mais-barato-que-o-t-cross-at%C3%A9-s%C3%A1bado/ar-AA2gqA8n)
+
+---
+
+## 29/10/2026 — BYD faz Camaçari retomar escala industrial e movimenta R$ 1 bilhão em salários
+
+*imprensa · Movimentoeconomico*
+
+Estudo da FIEB aponta retomada do polo automotivo de Camaçari, enquanto a BYD prepara nova fase de produção nacional em 2027 ...
+
+[Abrir matéria](https://movimentoeconomico.com.br/estados/bahia/2026/10/30/byd-faz-camacari-retomar-escala-industrial-e-movimenta-r-1-bilhao-em-salarios/)
 
 ---
 

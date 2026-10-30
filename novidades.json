@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-10-30T00:14:04Z",
+  "atualizado_em": "2026-10-30T18:10:26Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-10-30-byd-derruba-preco-e-vende-song-pro-mais-barat",
+      "data": "2026-10-30",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD derruba preço e vende Song Pro mais barato que T-Cross",
+      "resumo": "A BYD jogou no chão os preços de um de seus SUVs híbridos mais desejados do Brasil. O Song Pro , que briga com Omoda 5 e com GWM Haval H6 pelo posto de mais ven ...",
+      "fonte": "Canaltech",
+      "link": "https://canaltech.com.br/carros/byd-derruba-preco-e-vende-song-pro-mais-barato-que-t-cross/"
+    },
+    {
+      "id": "2026-10-30-byd-corta-r-28-5-mil-e-deixa-song-pro-mais-ba",
+      "data": "2026-10-30",
+      "tipo": "promocao",
+      "peso": "alta",
+      "titulo": "BYD corta R$ 28,5 mil e deixa Song Pro mais barato que o T-Cross até sábado",
+      "resumo": "Desconto vale até sábado (31), mas o preço anunciado se refere à configuração anterior à reestilização apresentada em agosto O post BYD corta R$ 28,5 mil e deixa Song Pro mais barato que o T-Cross até ...",
+      "fonte": "Msn",
+      "link": "https://www.msn.com/pt-br/carros/utilit%C3%A1rios-esportivos/byd-corta-r-28-5-mil-e-deixa-song-pro-mais-barato-que-o-t-cross-at%C3%A9-s%C3%A1bado/ar-AA2gqA8n"
+    },
+    {
+      "id": "2026-10-29-byd-faz-camacari-retomar-escala-industrial-e-",
+      "data": "2026-10-29",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "BYD faz Camaçari retomar escala industrial e movimenta R$ 1 bilhão em salários",
+      "resumo": "Estudo da FIEB aponta retomada do polo automotivo de Camaçari, enquanto a BYD prepara nova fase de produção nacional em 2027 ...",
+      "fonte": "Movimentoeconomico",
+      "link": "https://movimentoeconomico.com.br/estados/bahia/2026/10/30/byd-faz-camacari-retomar-escala-industrial-e-movimenta-r-1-bilhao-em-salarios/"
+    },
     {
       "id": "2026-10-29-byd-song-pro-2027-recebe-desconto-e-sai-mais-",
       "data": "2026-10-29",
