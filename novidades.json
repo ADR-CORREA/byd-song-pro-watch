@@ -1,7 +1,37 @@
 {
-  "atualizado_em": "2026-10-29T18:37:47Z",
+  "atualizado_em": "2026-10-30T00:14:04Z",
   "assunto": "BYD Song Pro flex (linha 2027) — lançamento no Brasil",
   "itens": [
+    {
+      "id": "2026-10-29-byd-song-pro-2027-recebe-desconto-e-sai-mais-",
+      "data": "2026-10-29",
+      "tipo": "promocao",
+      "peso": "media",
+      "titulo": "BYD Song Pro 2027 recebe desconto e sai mais barato que versões topo do VW T-Cross",
+      "resumo": "O BYD Song Pro 2026/2027 na versão de entrada GL, e com o visual antigo, recebeu um desconto no site da marca. Ele ficou mais barato que as versões topo do VW T-Cross, como Comfortline (R$ 173.790), H ...",
+      "fonte": "Quatrorodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/byd-song-pro-gl-desconto/"
+    },
+    {
+      "id": "2026-10-29-byd-camacari-avanca-em-novas-etapas-para-prod",
+      "data": "2026-10-29",
+      "tipo": "imprensa",
+      "peso": "media",
+      "titulo": "BYD Camaçari avança em novas etapas para produção total",
+      "resumo": "Reportagem visitou o complexo e as novas áreas de soldagem e pintura. Expectativa é de início da produção até o fim do ano.",
+      "fonte": "Autodata",
+      "link": "https://www.autodata.com.br/noticias/2026/10/29/byd-camacari-avanca-em-novas-etapas-para-producao-total/138869/"
+    },
+    {
+      "id": "2026-10-28-complexo-da-byd-em-camacari-movimenta-mais-de",
+      "data": "2026-10-28",
+      "tipo": "imprensa",
+      "peso": "alta",
+      "titulo": "Complexo da BYD em Camaçari movimenta mais de R$ 1 bilhão em salários por ano e impulsiona economia regional",
+      "resumo": "Estudo da FIEB aponta mais de 22 mil empregos diretos, indiretos e induzidos, além de salário médio industrial no município 24% superior à média da Bahia ...",
+      "fonte": "Maisregiao",
+      "link": "https://www.maisregiao.com.br/noticia/95607/complexo-da-byd-em-camacari-movimenta-mais-de-r-1-bilhao-em-salarios-por-ano-e-impulsiona-economia-regional"
+    },
     {
       "id": "2026-10-28-byd-song-pro-flex-recebe-r-20-mil-de-desconto",
       "data": "2026-10-28",

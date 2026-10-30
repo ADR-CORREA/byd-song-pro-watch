@@ -1,10 +1,40 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-29 18:37:47 UTC
+Última verificação: 2026-10-30 00:14:04 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 29/10/2026 — BYD Song Pro 2027 recebe desconto e sai mais barato que versões topo do VW T-Cross
+
+*promocao · Quatrorodas*
+
+O BYD Song Pro 2026/2027 na versão de entrada GL, e com o visual antigo, recebeu um desconto no site da marca. Ele ficou mais barato que as versões topo do VW T-Cross, como Comfortline (R$ 173.790), H ...
+
+[Abrir matéria](https://quatrorodas.abril.com.br/descontos-e-promocoes/byd-song-pro-gl-desconto/)
+
+---
+
+## 29/10/2026 — BYD Camaçari avança em novas etapas para produção total
+
+*imprensa · Autodata*
+
+Reportagem visitou o complexo e as novas áreas de soldagem e pintura. Expectativa é de início da produção até o fim do ano.
+
+[Abrir matéria](https://www.autodata.com.br/noticias/2026/10/29/byd-camacari-avanca-em-novas-etapas-para-producao-total/138869/)
+
+---
+
+## 28/10/2026 — Complexo da BYD em Camaçari movimenta mais de R$ 1 bilhão em salários por ano e impulsiona economia regional
+
+*imprensa · Maisregiao*
+
+Estudo da FIEB aponta mais de 22 mil empregos diretos, indiretos e induzidos, além de salário médio industrial no município 24% superior à média da Bahia ...
+
+[Abrir matéria](https://www.maisregiao.com.br/noticia/95607/complexo-da-byd-em-camacari-movimenta-mais-de-r-1-bilhao-em-salarios-por-ano-e-impulsiona-economia-regional)
 
 ---
 
