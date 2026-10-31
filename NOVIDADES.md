@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-10-31 17:20:50 UTC
+Última verificação: 2026-10-31 23:38:50 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 31/10/2026 — BYD corta preço do suv Song Pro e fica mais barato que T-Cross
+
+*promocao · N1n*
+
+A BYD reduziu o preço do SUV Song Pro para R$ 161.490, ficando mais barato que o T-Cross. Oferta vale para a linha anterior até o fim de outubro.
+
+[Abrir matéria](https://n1n.com.br/autos/116774/byd-corta-preco-do-suv-song-pro-e-fica-mais-barato-que-t-cross/)
 
 ---
 
