@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-05 20:14:31 UTC
+Última verificação: 2026-11-06 01:05:13 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 05/11/2026 — BYD em Camaçari: marca amplia fábrica para nacionalizar produção até 2027
+
+*imprensa · Brasil*
+
+A BYD em Camaçari amplia sua fábrica na Bahia para nacionalizar a produção de veículos eletrificados até 2027. Veja metas, empregos e modelos.
+
+[Abrir matéria](https://brasil.perfil.com/carros/byd-em-camacari-amplia-fabrica-para-nacionalizar-producao-ate-2027.phtml)
 
 ---
 
