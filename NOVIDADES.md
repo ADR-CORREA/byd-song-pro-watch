@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-07 00:15:53 UTC
+Última verificação: 2026-11-07 17:50:26 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 06/11/2026 — BYD reúne 80 empresas globais em Shenzhen para fortalecer cadeia de suprimentos do polo automotivo de Camaçari
+
+*imprensa · Revistametropolitana*
+
+Iniciativa busca atrair fornecedores de setores estratégicos, como tecnologia e energias renováveis, para consolidar ecossistema automotivo robusto e integrado ...
+
+[Abrir matéria](https://revistametropolitana.com.br/noticia/59865/byd-reune-80-empresas-globais-em-shenzhen-para-fortalecer-cadeia-de-suprimentos-do-polo-automotivo-de-camacari)
 
 ---
 
