@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-08 23:57:38 UTC
+Última verificação: 2026-11-09 22:40:18 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 09/11/2026 — BYD Atto 2 toma lugar do King na fábrica de Camaçari e sedã pode voltar em nova geração
+
+*imprensa · Quatrorodas*
+
+BYD projeta uma expansão de curto prazo nas vendas do SUV, enquanto estoques do sedã estão garantidos até o final do ano ...
+
+[Abrir matéria](https://quatrorodas.abril.com.br/segredo/byd-atto-2-assume-fabrica-camacari-lugar-king/)
 
 ---
 
