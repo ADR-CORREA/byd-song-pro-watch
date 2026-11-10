@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-10 02:52:56 UTC
+Última verificação: 2026-11-10 19:59:02 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 10/11/2026 — Rival da BYD lança novo modelo híbrido para brigar com Song Pro
+
+*imprensa · Atarde*
+
+Caoa lança o SUV CS55 Ultra-Hybrid PHEV Flex. Veja preço, motor de 286 cv, consumo e autonomia do novo híbrido plug-in ...
+
+[Abrir matéria](https://atarde.com.br/autos/rival-da-byd-lanca-novo-modelo-hibrido-para-brigar-com-song-pro-1408989)
+
+---
+
+## 10/11/2026 — Teste: BYD Song Pro é promovido, melhora com RG brasileiro e tempero local na receita
+
+*imprensa · Msn*
+
+Abrindo espaço ao Atto 2, SUV médio ouviu as reclamações para subir de patamar dentro da marca ...
+
+[Abrir matéria](https://www.msn.com/pt-br/carros/utilit%C3%A1rios-esportivos/teste-byd-song-pro-%C3%A9-promovido-melhora-com-rg-brasileiro-e-tempero-local-na-receita/ar-AA2h8uux)
 
 ---
 
