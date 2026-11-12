@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-12 01:58:55 UTC
+Última verificação: 2026-11-12 20:23:49 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 12/11/2026 — BYD abre vagas em Camaçari, coloca fábrica para funcionar 24 horas e mira 20 mil funcionários
+
+*imprensa · N1n*
+
+Oportunidades contemplam profissionais de níveis médio, técnico e superior; montadora também recebe currículos para banco de talentos de operador de produção.
+
+[Abrir matéria](https://n1n.com.br/mercado-de-trabalho/118222/byd-abre-vagas-em-camacari-coloca-fabrica-para-funcionar-24-horas-e-mira-20-mil-funcionarios/)
 
 ---
 
