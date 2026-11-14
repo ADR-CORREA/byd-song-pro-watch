@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-14 00:59:27 UTC
+Última verificação: 2026-11-14 18:27:43 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 14/11/2026 — BYD vai ampliar linha híbrida flex em Camaçari com King e picape Mako
+
+*promocao · Noticias*
+
+A BYD vai ampliar a oferta de híbridos plug-in flex produzidos em Camaçari, na Bahia, com a chegada da picape Mako e a futura adaptação do sedã King. A fábrica de Camaçari que já tem quase 10.000 ...
+
+[Abrir matéria](https://noticias.r7.com/prisma/autos-carros/byd-vai-ampliar-linha-hibrida-flex-em-camacari-com-king-e-picape-mako-14112026/)
 
 ---
 
