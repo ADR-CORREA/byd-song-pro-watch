@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-15 00:10:28 UTC
+Última verificação: 2026-11-15 19:04:29 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 15/11/2026 — BYD contrata 2 mil trabalhadores em Camaçari, antecipa o terceiro turno que só viria no fim do ano e põe a fábrica da Bahia para rodar 24 horas por dia, puxada por mais de ...
+
+*imprensa · Clickpetroleoegas*
+
+Fábrica da BYD em Camaçari passa a rodar 24 horas desde 9/11, com terceiro turno antecipado, 2 mil contratados e 10.329 pedidos do Atto 2.
+
+[Abrir matéria](https://clickpetroleoegas.com.br/byd-camacari-2-mil-24-horas-mh15c-mhbb01/)
 
 ---
 
