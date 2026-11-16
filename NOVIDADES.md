@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-16 00:18:28 UTC
+Última verificação: 2026-11-16 22:28:39 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 16/11/2026 — BYD Song Pro passa a rodar com etanol, gasolina e eletricidade, anda até 72 km só na bateria, chega a 805 km com etanol no ciclo NEDC e baixa R$ 13 mil na versão de entrada ...
+
+*imprensa · Clickpetroleoegas*
+
+BYD Song Pro flex roda com etanol, gasolina ou eletricidade, faz até 72 km na bateria e 805 km com etanol (NEDC); GL sai por R$ 176.990.
+
+[Abrir matéria](https://clickpetroleoegas.com.br/byd-song-pro-passa-a-rodar-com-etanol-gasolina-e-eletricidade-anda-ate-72-km-so-na-bateria-chega-a-805-km-com-etanol-no-ciclo-nedc-e-baixa-r-13-mil-na-versao-de-entrada-btl96-mhbb01/)
 
 ---
 
