@@ -1,10 +1,30 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-17 03:05:36 UTC
+Última verificação: 2026-11-17 21:17:44 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 17/11/2026 — BYD decide que todos os híbridos de Camaçari serão flex, vê o Atto 2 somar mais de 10 mil pedidos em 45 dias, prepara a picape Mako para dezembro e põe na fila o sedã ...
+
+*imprensa · Clickpetroleoegas*
+
+BYD decide que todos os híbridos feitos em Camaçari serão plug-in flex, a gasolina ou etanol, depois da largada do Atto 2; Mako e King entram na fila.
+
+[Abrir matéria](https://clickpetroleoegas.com.br/byd-decide-que-todos-os-hibridos-de-camacari-serao-flex-ve-o-atto-2-somar-mais-de-10-mil-pedidos-em-45-dias-prepara-a-picape-mako-para-dezembro-e-poe-na-fila-o-seda-king-btl96/)
+
+---
+
+## 17/11/2026 — BYD Song Pro ganha rival: dirigimos o Changan CS55 híbrido que aceita etanol
+
+*imprensa · Msn*
+
+Com 286 cv de potência combinada, SUV híbrido plug-in tem autonomia elétrica de até 76 km, aceita etanol e custa R$ 189.990 ...
+
+[Abrir matéria](https://www.msn.com/pt-br/carros/carros-el%C3%A9tricos/byd-song-pro-ganha-rival-dirigimos-o-changan-cs55-h%C3%ADbrido-que-aceita-etanol/ar-AA2hDqAs)
 
 ---
 
