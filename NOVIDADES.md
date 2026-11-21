@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-21 01:42:47 UTC
+Última verificação: 2026-11-21 19:44:35 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 20/11/2026 — Promoção da BYD surpreende compradores: SUV híbrido Song Pro GL Flex 2027 perde R$ 20 mil, sai por R$ 176.990 e tem desconto com prazo para acabar
+
+*promocao · Tupi*
+
+O mercado automotivo brasileiro recebe uma movimentação comercial importante neste mês de novembro de 2026 com a nova campanha promocional da BYD, que reduziu em R$ 20 mil o preço do Song Pro GL Flex ...
+
+[Abrir matéria](https://www.tupi.fm/automobilismo/promocao-da-byd-surpreende-compradores-suv-hibrido-song-pro-gl-flex-2027-perde-r-20-mil-sai-por-r-176-990-e-tem-desconto-com-prazo-para-acabar/)
 
 ---
 
