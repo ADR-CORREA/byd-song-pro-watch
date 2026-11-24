@@ -1,10 +1,20 @@
 # Novidades — BYD Song Pro flex 2027
 
-Última verificação: 2026-11-23 01:05:35 UTC
+Última verificação: 2026-11-24 00:18:22 UTC
 
 Página completa (com marcação de lido): https://adr-correa.github.io/byd-song-pro-watch/
 
 BYD Vega Macapá: (91) 99302-7475 — Belém: (91) 99160-3645
+
+---
+
+## 23/11/2026 — BYD Song Pro Flex ganha novo visual, interior renovado e até 1.200 km de autonomia combinada
+
+*imprensa · Noticias*
+
+Conjunto mecânico combina motor 1.5 aspirado e elétrico, com potência de 219 cavalos e aceleração de 0 a 100 km/h em 8,8 segundos ...
+
+[Abrir matéria](https://noticias.r7.com/brasilia/auto-record/video/byd-song-pro-flex-ganha-novo-visual-interior-renovado-e-ate-1200-km-de-autonomia-combinada-23112026/)
 
 ---
 
